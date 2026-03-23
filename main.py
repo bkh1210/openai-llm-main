@@ -5,7 +5,7 @@ from config import OPENAI_API_KEY
 from loader import load_prompt
 
 # 1. 데이터 불러오기
-full_script, results, audio_metrics, pose = prepare_inputs("audio.json", "pose.json")
+full_script, results, audio_metrics, pose = prepare_inputs("음성_유낸.json", "포즈_유낸.json")
 
 # 2. OpenAI client 생성
 if not OPENAI_API_KEY:
@@ -95,6 +95,7 @@ voice_audio_data = {
 }
 
 voice_prompt = voice_prompt_template.format(
+    full_script=full_script,
     results=json.dumps(voice_results_data, ensure_ascii=False),
     audio_metrics=json.dumps(voice_audio_data, ensure_ascii=False)
 )
