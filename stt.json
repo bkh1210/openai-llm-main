@@ -1,0 +1,2972 @@
+{
+  "success": true,
+  "audio_metrics": {
+    "total_time_sec": 239.49,
+    "overall_cpm": 316.8,
+    "segment": [
+      {
+        "start": 7.89,
+        "end": 9.07,
+        "text": "네, 발표 시작하겠습니다.",
+        "syllables": 10,
+        "cpm": 508.5,
+        "fillers": [],
+        "pause_duration_sec": 7.89
+      },
+      {
+        "start": 9.79,
+        "end": 12.69,
+        "text": "안녕하세요. 네이름 발표왕의 발표를 맡은 유네인입니다.",
+        "syllables": 23,
+        "cpm": 475.9,
+        "fillers": [],
+        "pause_duration_sec": 0.72
+      },
+      {
+        "start": 13.47,
+        "end": 18.35,
+        "text": "저희가 선정하게 된 주제는 메타인지를 활용해 발표 연습을 돕는 어시스턴트입니다.",
+        "syllables": 34,
+        "cpm": 418.0,
+        "fillers": [],
+        "pause_duration_sec": 0.78
+      },
+      {
+        "start": 19.15,
+        "end": 26.23,
+        "text": "이러한 주제를 선정하게 된 배경은 말하기는 가장 기본적이고 필수적인 의사소통의 능력이지 않습니까?",
+        "syllables": 42,
+        "cpm": 355.9,
+        "fillers": [],
+        "pause_duration_sec": 0.8
+      },
+      {
+        "start": 26.93,
+        "end": 31.19,
+        "text": "또한 많은 서브들에서도 회사에서도 발표는 필수적으로 요구되고 있습니다.",
+        "syllables": 31,
+        "cpm": 436.6,
+        "fillers": [],
+        "pause_duration_sec": 0.7
+      },
+      {
+        "start": 31.19,
+        "end": 40.69,
+        "text": "하지만 제가 4년 동안 학교를 다니면서 발표를 좋아하는 비율보다는 발표를 어려워하고 발표를 기피하는 사람들을 흔히 볼 수 있었습니다.",
+        "syllables": 55,
+        "cpm": 347.4,
+        "fillers": [],
+        "pause_duration_sec": 0.0
+      },
+      {
+        "start": 41.73,
+        "end": 48.47,
+        "text": "찾아보니 이러한 형상은 발표 불안이라는 키워드로 수십 년간 국내에 모두 활발하게 정보가 진행되고 있었습니다.",
+        "syllables": 46,
+        "cpm": 409.5,
+        "fillers": [],
+        "pause_duration_sec": 1.04
+      },
+      {
+        "start": 49.91,
+        "end": 61.05,
+        "text": "따라서 발표 불안을 해소할 필요성을 느꼈고 이를 해소하는 방법 중 발표 능력과 향상과 직결되는 행동적 접근 방식을 선택했습니다.",
+        "syllables": 53,
+        "cpm": 285.5,
+        "fillers": [],
+        "pause_duration_sec": 1.44
+      },
+      {
+        "start": 63.11,
+        "end": 74.53,
+        "text": "행동적 접근 방법은 모의 발표 연습을 하고 피드백을 받아서 발표를 수정하는 일련의 과정을 말합니다.",
+        "syllables": 41,
+        "cpm": 215.4,
+        "fillers": [],
+        "pause_duration_sec": 2.06
+      },
+      {
+        "start": 75.19,
+        "end": 77.67,
+        "text": "그리고 저희는 한 가지 포인트를 담아놨는데요.",
+        "syllables": 19,
+        "cpm": 459.7,
+        "fillers": [],
+        "pause_duration_sec": 0.66
+      },
+      {
+        "start": 78.01,
+        "end": 85.93,
+        "text": "다음은 메타인지입니다. 과연 단순히 발표 연습과 피드백만으로 발표 실력을 형성시킬 수 있을까? 메타인지가 반드시 시선되어야 한다고 생각했습니다.",
+        "syllables": 61,
+        "cpm": 462.1,
+        "fillers": [],
+        "pause_duration_sec": 0.34
+      },
+      {
+        "start": 86.45,
+        "end": 90.57,
+        "text": "자신의 현재 상태를 정확히 아는 메타인지를 활성화한다면",
+        "syllables": 24,
+        "cpm": 349.5,
+        "fillers": [],
+        "pause_duration_sec": 0.52
+      },
+      {
+        "start": 91.19,
+        "end": 101.59,
+        "text": "그 실력을 보다 효과적으로 증진시킬 수 있으리라 생각해 메타인지 활용 발표 연습 어시스턴트를 창원했습니다.",
+        "syllables": 45,
+        "cpm": 259.6,
+        "fillers": [
+          "그"
+        ],
+        "pause_duration_sec": 0.62
+      },
+      {
+        "start": 103.05,
+        "end": 104.53,
+        "text": "다음은 주요 기능입니다.",
+        "syllables": 10,
+        "cpm": 405.4,
+        "fillers": [],
+        "pause_duration_sec": 1.46
+      },
+      {
+        "start": 104.71,
+        "end": 111.87,
+        "text": "첫 번째, 사용자가 업로드한 발표 영상을 통해 발표 내용, 음성, 동작들을 분석해 피드백을 제공합니다.",
+        "syllables": 40,
+        "cpm": 335.2,
+        "fillers": [],
+        "pause_duration_sec": 0.18
+      },
+      {
+        "start": 112.01,
+        "end": 120.67,
+        "text": "두 번째로, 외적으로 잘 드러나는 피드백 상황, 음성과 동작 피드백은 피드백하는 부분을 짧게 자르고 피드백을 추가해 제공하고자 합니다.",
+        "syllables": 55,
+        "cpm": 381.1,
+        "fillers": [],
+        "pause_duration_sec": 0.14
+      },
+      {
+        "start": 121.73,
+        "end": 132.03,
+        "text": "세 번째, 사용자는 피드백 전후로 발표 영상을 촬영함으로써 발표를 비교하고 자기 점검을 할 수 있습니다.",
+        "syllables": 42,
+        "cpm": 244.7,
+        "fillers": [],
+        "pause_duration_sec": 1.06
+      },
+      {
+        "start": 134.31,
+        "end": 144.65,
+        "text": "작품 구상입니다. 첫 번째는 인지 단계입니다. 우선 사용자에게 발표 상황을 입력받습니다. 이는 총 두 곳의 수입니다.",
+        "syllables": 46,
+        "cpm": 266.9,
+        "fillers": [],
+        "pause_duration_sec": 2.28
+      },
+      {
+        "start": 148.17,
+        "end": 166.06,
+        "text": "하나는 사용자가 발표 상황에 대해서 얼마나 잘 알고 있는지 자기 점검 기회를 주고 두 번째는 발표 맞춤형 피드백을 제공하기 위함입니다.",
+        "syllables": 55,
+        "cpm": 184.5,
+        "fillers": [],
+        "pause_duration_sec": 3.52
+      },
+      {
+        "start": 166.18,
+        "end": 175.44,
+        "text": "다음으로 사용자가 자신의 발표 영상을 찍고 업로드하고 이제 해당 발표 연습에 대한 자기 평가를 하게 됩니다.",
+        "syllables": 44,
+        "cpm": 285.1,
+        "fillers": [
+          "이제"
+        ],
+        "pause_duration_sec": 0.12
+      },
+      {
+        "start": 176.38,
+        "end": 187.72,
+        "text": "이 자기 평가는 사용자의 메타인지가 얼마나 활성화되어 있는지 피드백 보고서에 나타날 때 쓰일 예정입니다.",
+        "syllables": 44,
+        "cpm": 232.8,
+        "fillers": [],
+        "pause_duration_sec": 0.94
+      },
+      {
+        "start": 187.88,
+        "end": 199.9,
+        "text": "이러한 데이터는 분석 모델을 거쳐 피드백을 생성하는데 사용되고, 앞서 말씀드린 것처럼 피드백은 영상과 보고서 총 두 가지 형태로 제공됩니다.",
+        "syllables": 58,
+        "cpm": 289.5,
+        "fillers": [],
+        "pause_duration_sec": 0.16
+      },
+      {
+        "start": 200.1,
+        "end": 202.98,
+        "text": "이러한 피드백을 확인하는 단계가 모니터링입니다.",
+        "syllables": 21,
+        "cpm": 437.5,
+        "fillers": [],
+        "pause_duration_sec": 0.2
+      },
+      {
+        "start": 203.64,
+        "end": 207.92,
+        "text": "사용자가 이러한 피드백을 선택적으로 수용하고 발표를 수정합니다.",
+        "syllables": 28,
+        "cpm": 392.5,
+        "fillers": [],
+        "pause_duration_sec": 0.66
+      },
+      {
+        "start": 207.94,
+        "end": 215.48,
+        "text": "수용하는 단계가 수용 조절 단계고, 수정한 내용을 재발표하고 피드백 전후의 발표를 비교하는 단계가 개선 확인 단계입니다.",
+        "syllables": 50,
+        "cpm": 397.9,
+        "fillers": [],
+        "pause_duration_sec": 0.02
+      },
+      {
+        "start": 216.52,
+        "end": 217.82,
+        "text": "마지막으로 기대 효과입니다.",
+        "syllables": 12,
+        "cpm": 553.8,
+        "fillers": [],
+        "pause_duration_sec": 1.04
+      },
+      {
+        "start": 218.62,
+        "end": 227.16,
+        "text": "사용자는 발표 연습을 반복적으로 하고 피드백 반영 과정을 통해 메타인지를 활성화할 수 있습니다.",
+        "syllables": 40,
+        "cpm": 281.0,
+        "fillers": [],
+        "pause_duration_sec": 0.8
+      },
+      {
+        "start": 227.36,
+        "end": 232.86,
+        "text": "또한 이로 인해 발표 불안을 완화하고 발표 실력 향상과 자신감을 증진할 수 있습니다.",
+        "syllables": 34,
+        "cpm": 370.9,
+        "fillers": [],
+        "pause_duration_sec": 0.2
+      },
+      {
+        "start": 233.66,
+        "end": 235.5,
+        "text": "이상 발표를 마치겠습니다. 감사합니다.",
+        "syllables": 16,
+        "cpm": 521.7,
+        "fillers": [],
+        "pause_duration_sec": 0.8
+      }
+    ],
+    "full_text": "네, 발표 시작하겠습니다. 안녕하세요. 네이름 발표왕의 발표를 맡은 유네인입니다. 저희가 선정하게 된 주제는 메타인지를 활용해 발표 연습을 돕는 어시스턴트입니다. 이러한 주제를 선정하게 된 배경은 말하기는 가장 기본적이고 필수적인 의사소통의 능력이지 않습니까? 또한 많은 서브들에서도 회사에서도 발표는 필수적으로 요구되고 있습니다. 하지만 제가 4년 동안 학교를 다니면서 발표를 좋아하는 비율보다는 발표를 어려워하고 발표를 기피하는 사람들을 흔히 볼 수 있었습니다. 찾아보니 이러한 형상은 발표 불안이라는 키워드로 수십 년간 국내에 모두 활발하게 정보가 진행되고 있었습니다. 따라서 발표 불안을 해소할 필요성을 느꼈고 이를 해소하는 방법 중 발표 능력과 향상과 직결되는 행동적 접근 방식을 선택했습니다. 행동적 접근 방법은 모의 발표 연습을 하고 피드백을 받아서 발표를 수정하는 일련의 과정을 말합니다. 그리고 저희는 한 가지 포인트를 담아놨는데요. 다음은 메타인지입니다. 과연 단순히 발표 연습과 피드백만으로 발표 실력을 형성시킬 수 있을까? 메타인지가 반드시 시선되어야 한다고 생각했습니다. 자신의 현재 상태를 정확히 아는 메타인지를 활성화한다면 그 실력을 보다 효과적으로 증진시킬 수 있으리라 생각해 메타인지 활용 발표 연습 어시스턴트를 창원했습니다. 다음은 주요 기능입니다. 첫 번째, 사용자가 업로드한 발표 영상을 통해 발표 내용, 음성, 동작들을 분석해 피드백을 제공합니다. 두 번째로, 외적으로 잘 드러나는 피드백 상황, 음성과 동작 피드백은 피드백하는 부분을 짧게 자르고 피드백을 추가해 제공하고자 합니다. 세 번째, 사용자는 피드백 전후로 발표 영상을 촬영함으로써 발표를 비교하고 자기 점검을 할 수 있습니다. 작품 구상입니다. 첫 번째는 인지 단계입니다. 우선 사용자에게 발표 상황을 입력받습니다. 이는 총 두 곳의 수입니다. 하나는 사용자가 발표 상황에 대해서 얼마나 잘 알고 있는지 자기 점검 기회를 주고 두 번째는 발표 맞춤형 피드백을 제공하기 위함입니다. 다음으로 사용자가 자신의 발표 영상을 찍고 업로드하고 이제 해당 발표 연습에 대한 자기 평가를 하게 됩니다. 이 자기 평가는 사용자의 메타인지가 얼마나 활성화되어 있는지 피드백 보고서에 나타날 때 쓰일 예정입니다. 이러한 데이터는 분석 모델을 거쳐 피드백을 생성하는데 사용되고, 앞서 말씀드린 것처럼 피드백은 영상과 보고서 총 두 가지 형태로 제공됩니다. 이러한 피드백을 확인하는 단계가 모니터링입니다. 사용자가 이러한 피드백을 선택적으로 수용하고 발표를 수정합니다. 수용하는 단계가 수용 조절 단계고, 수정한 내용을 재발표하고 피드백 전후의 발표를 비교하는 단계가 개선 확인 단계입니다. 마지막으로 기대 효과입니다. 사용자는 발표 연습을 반복적으로 하고 피드백 반영 과정을 통해 메타인지를 활성화할 수 있습니다. 또한 이로 인해 발표 불안을 완화하고 발표 실력 향상과 자신감을 증진할 수 있습니다. 이상 발표를 마치겠습니다. 감사합니다."
+  },
+  "artifacts": [
+    {
+      "index": 0,
+      "type": "word",
+      "word": "네,",
+      "start": 7.89,
+      "end": 8.29
+    },
+    {
+      "index": 1,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 8.29,
+      "end": 8.33
+    },
+    {
+      "index": 2,
+      "type": "word",
+      "word": "발표",
+      "start": 8.33,
+      "end": 8.63
+    },
+    {
+      "index": 3,
+      "type": "word",
+      "word": "시작하겠습니다.",
+      "start": 8.63,
+      "end": 9.07
+    },
+    {
+      "index": 4,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 9.07,
+      "end": 9.79
+    },
+    {
+      "index": 5,
+      "type": "word",
+      "word": "안녕하세요.",
+      "start": 9.79,
+      "end": 10.23
+    },
+    {
+      "index": 6,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 10.23,
+      "end": 10.49
+    },
+    {
+      "index": 7,
+      "type": "word",
+      "word": "네이름",
+      "start": 10.49,
+      "end": 10.85
+    },
+    {
+      "index": 8,
+      "type": "word",
+      "word": "발표왕의",
+      "start": 10.85,
+      "end": 11.39
+    },
+    {
+      "index": 9,
+      "type": "word",
+      "word": "발표를",
+      "start": 11.39,
+      "end": 11.87
+    },
+    {
+      "index": 10,
+      "type": "word",
+      "word": "맡은",
+      "start": 11.87,
+      "end": 12.25
+    },
+    {
+      "index": 11,
+      "type": "word",
+      "word": "유네인입니다.",
+      "start": 12.25,
+      "end": 12.69
+    },
+    {
+      "index": 12,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 12.69,
+      "end": 13.47
+    },
+    {
+      "index": 13,
+      "type": "word",
+      "word": "저희가",
+      "start": 13.47,
+      "end": 13.91
+    },
+    {
+      "index": 14,
+      "type": "word",
+      "word": "선정하게",
+      "start": 13.91,
+      "end": 14.51
+    },
+    {
+      "index": 15,
+      "type": "word",
+      "word": "된",
+      "start": 14.51,
+      "end": 14.69
+    },
+    {
+      "index": 16,
+      "type": "word",
+      "word": "주제는",
+      "start": 14.69,
+      "end": 15.05
+    },
+    {
+      "index": 17,
+      "type": "word",
+      "word": "메타인지를",
+      "start": 15.05,
+      "end": 15.79
+    },
+    {
+      "index": 18,
+      "type": "word",
+      "word": "활용해",
+      "start": 15.79,
+      "end": 16.33
+    },
+    {
+      "index": 19,
+      "type": "word",
+      "word": "발표",
+      "start": 16.33,
+      "end": 16.71
+    },
+    {
+      "index": 20,
+      "type": "word",
+      "word": "연습을",
+      "start": 16.71,
+      "end": 17.13
+    },
+    {
+      "index": 21,
+      "type": "word",
+      "word": "돕는",
+      "start": 17.13,
+      "end": 17.43
+    },
+    {
+      "index": 22,
+      "type": "word",
+      "word": "어시스턴트입니다.",
+      "start": 17.43,
+      "end": 18.35
+    },
+    {
+      "index": 23,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 18.35,
+      "end": 19.15
+    },
+    {
+      "index": 24,
+      "type": "word",
+      "word": "이러한",
+      "start": 19.15,
+      "end": 19.59
+    },
+    {
+      "index": 25,
+      "type": "word",
+      "word": "주제를",
+      "start": 19.59,
+      "end": 19.89
+    },
+    {
+      "index": 26,
+      "type": "word",
+      "word": "선정하게",
+      "start": 19.89,
+      "end": 20.35
+    },
+    {
+      "index": 27,
+      "type": "word",
+      "word": "된",
+      "start": 20.35,
+      "end": 21.69
+    },
+    {
+      "index": 28,
+      "type": "word",
+      "word": "배경은",
+      "start": 21.69,
+      "end": 22.29
+    },
+    {
+      "index": 29,
+      "type": "word",
+      "word": "말하기는",
+      "start": 22.29,
+      "end": 23.31
+    },
+    {
+      "index": 30,
+      "type": "word",
+      "word": "가장",
+      "start": 23.31,
+      "end": 23.49
+    },
+    {
+      "index": 31,
+      "type": "word",
+      "word": "기본적이고",
+      "start": 23.49,
+      "end": 24.19
+    },
+    {
+      "index": 32,
+      "type": "word",
+      "word": "필수적인",
+      "start": 24.19,
+      "end": 24.77
+    },
+    {
+      "index": 33,
+      "type": "word",
+      "word": "의사소통의",
+      "start": 24.77,
+      "end": 25.43
+    },
+    {
+      "index": 34,
+      "type": "word",
+      "word": "능력이지",
+      "start": 25.43,
+      "end": 25.85
+    },
+    {
+      "index": 35,
+      "type": "word",
+      "word": "않습니까?",
+      "start": 25.85,
+      "end": 26.23
+    },
+    {
+      "index": 36,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 26.23,
+      "end": 26.93
+    },
+    {
+      "index": 37,
+      "type": "word",
+      "word": "또한",
+      "start": 26.93,
+      "end": 27.25
+    },
+    {
+      "index": 38,
+      "type": "word",
+      "word": "많은",
+      "start": 27.25,
+      "end": 27.47
+    },
+    {
+      "index": 39,
+      "type": "word",
+      "word": "서브들에서도",
+      "start": 27.47,
+      "end": 28.11
+    },
+    {
+      "index": 40,
+      "type": "word",
+      "word": "회사에서도",
+      "start": 28.11,
+      "end": 28.83
+    },
+    {
+      "index": 41,
+      "type": "word",
+      "word": "발표는",
+      "start": 28.83,
+      "end": 29.89
+    },
+    {
+      "index": 42,
+      "type": "word",
+      "word": "필수적으로",
+      "start": 29.89,
+      "end": 30.49
+    },
+    {
+      "index": 43,
+      "type": "word",
+      "word": "요구되고",
+      "start": 30.49,
+      "end": 30.95
+    },
+    {
+      "index": 44,
+      "type": "word",
+      "word": "있습니다.",
+      "start": 30.95,
+      "end": 31.19
+    },
+    {
+      "index": 45,
+      "type": "word",
+      "word": "하지만",
+      "start": 31.19,
+      "end": 32.45
+    },
+    {
+      "index": 46,
+      "type": "word",
+      "word": "제가",
+      "start": 32.45,
+      "end": 32.79
+    },
+    {
+      "index": 47,
+      "type": "word",
+      "word": "4년",
+      "start": 32.79,
+      "end": 33.17
+    },
+    {
+      "index": 48,
+      "type": "word",
+      "word": "동안",
+      "start": 33.17,
+      "end": 33.47
+    },
+    {
+      "index": 49,
+      "type": "word",
+      "word": "학교를",
+      "start": 33.47,
+      "end": 33.97
+    },
+    {
+      "index": 50,
+      "type": "word",
+      "word": "다니면서",
+      "start": 33.97,
+      "end": 34.49
+    },
+    {
+      "index": 51,
+      "type": "word",
+      "word": "발표를",
+      "start": 34.49,
+      "end": 35.11
+    },
+    {
+      "index": 52,
+      "type": "word",
+      "word": "좋아하는",
+      "start": 35.11,
+      "end": 35.41
+    },
+    {
+      "index": 53,
+      "type": "word",
+      "word": "비율보다는",
+      "start": 35.41,
+      "end": 36.15
+    },
+    {
+      "index": 54,
+      "type": "word",
+      "word": "발표를",
+      "start": 36.15,
+      "end": 36.71
+    },
+    {
+      "index": 55,
+      "type": "word",
+      "word": "어려워하고",
+      "start": 36.71,
+      "end": 37.41
+    },
+    {
+      "index": 56,
+      "type": "word",
+      "word": "발표를",
+      "start": 37.41,
+      "end": 38.39
+    },
+    {
+      "index": 57,
+      "type": "word",
+      "word": "기피하는",
+      "start": 38.39,
+      "end": 38.99
+    },
+    {
+      "index": 58,
+      "type": "word",
+      "word": "사람들을",
+      "start": 38.99,
+      "end": 39.53
+    },
+    {
+      "index": 59,
+      "type": "word",
+      "word": "흔히",
+      "start": 39.53,
+      "end": 39.77
+    },
+    {
+      "index": 60,
+      "type": "word",
+      "word": "볼",
+      "start": 39.77,
+      "end": 39.97
+    },
+    {
+      "index": 61,
+      "type": "word",
+      "word": "수",
+      "start": 39.97,
+      "end": 40.11
+    },
+    {
+      "index": 62,
+      "type": "word",
+      "word": "있었습니다.",
+      "start": 40.11,
+      "end": 40.69
+    },
+    {
+      "index": 63,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 40.69,
+      "end": 41.73
+    },
+    {
+      "index": 64,
+      "type": "word",
+      "word": "찾아보니",
+      "start": 41.73,
+      "end": 42.21
+    },
+    {
+      "index": 65,
+      "type": "word",
+      "word": "이러한",
+      "start": 42.21,
+      "end": 42.61
+    },
+    {
+      "index": 66,
+      "type": "word",
+      "word": "형상은",
+      "start": 42.61,
+      "end": 43.11
+    },
+    {
+      "index": 67,
+      "type": "word",
+      "word": "발표",
+      "start": 43.11,
+      "end": 43.57
+    },
+    {
+      "index": 68,
+      "type": "word",
+      "word": "불안이라는",
+      "start": 43.57,
+      "end": 44.05
+    },
+    {
+      "index": 69,
+      "type": "word",
+      "word": "키워드로",
+      "start": 44.05,
+      "end": 44.87
+    },
+    {
+      "index": 70,
+      "type": "word",
+      "word": "수십",
+      "start": 44.87,
+      "end": 45.35
+    },
+    {
+      "index": 71,
+      "type": "word",
+      "word": "년간",
+      "start": 45.35,
+      "end": 45.69
+    },
+    {
+      "index": 72,
+      "type": "word",
+      "word": "국내에",
+      "start": 45.69,
+      "end": 46.09
+    },
+    {
+      "index": 73,
+      "type": "word",
+      "word": "모두",
+      "start": 46.09,
+      "end": 46.33
+    },
+    {
+      "index": 74,
+      "type": "word",
+      "word": "활발하게",
+      "start": 46.33,
+      "end": 46.99
+    },
+    {
+      "index": 75,
+      "type": "word",
+      "word": "정보가",
+      "start": 46.99,
+      "end": 47.41
+    },
+    {
+      "index": 76,
+      "type": "word",
+      "word": "진행되고",
+      "start": 47.41,
+      "end": 47.93
+    },
+    {
+      "index": 77,
+      "type": "word",
+      "word": "있었습니다.",
+      "start": 47.93,
+      "end": 48.47
+    },
+    {
+      "index": 78,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 48.47,
+      "end": 49.91
+    },
+    {
+      "index": 79,
+      "type": "word",
+      "word": "따라서",
+      "start": 49.91,
+      "end": 50.87
+    },
+    {
+      "index": 80,
+      "type": "word",
+      "word": "발표",
+      "start": 50.87,
+      "end": 51.21
+    },
+    {
+      "index": 81,
+      "type": "word",
+      "word": "불안을",
+      "start": 51.21,
+      "end": 51.65
+    },
+    {
+      "index": 82,
+      "type": "word",
+      "word": "해소할",
+      "start": 51.65,
+      "end": 51.99
+    },
+    {
+      "index": 83,
+      "type": "word",
+      "word": "필요성을",
+      "start": 51.99,
+      "end": 52.41
+    },
+    {
+      "index": 84,
+      "type": "word",
+      "word": "느꼈고",
+      "start": 52.41,
+      "end": 52.97
+    },
+    {
+      "index": 85,
+      "type": "word",
+      "word": "이를",
+      "start": 52.97,
+      "end": 53.35
+    },
+    {
+      "index": 86,
+      "type": "word",
+      "word": "해소하는",
+      "start": 53.35,
+      "end": 53.71
+    },
+    {
+      "index": 87,
+      "type": "word",
+      "word": "방법",
+      "start": 53.71,
+      "end": 54.01
+    },
+    {
+      "index": 88,
+      "type": "word",
+      "word": "중",
+      "start": 54.01,
+      "end": 54.35
+    },
+    {
+      "index": 89,
+      "type": "word",
+      "word": "발표",
+      "start": 54.35,
+      "end": 54.83
+    },
+    {
+      "index": 90,
+      "type": "word",
+      "word": "능력과",
+      "start": 54.83,
+      "end": 55.57
+    },
+    {
+      "index": 91,
+      "type": "word",
+      "word": "향상과",
+      "start": 55.57,
+      "end": 56.77
+    },
+    {
+      "index": 92,
+      "type": "word",
+      "word": "직결되는",
+      "start": 56.77,
+      "end": 58.29
+    },
+    {
+      "index": 93,
+      "type": "word",
+      "word": "행동적",
+      "start": 58.29,
+      "end": 59.11
+    },
+    {
+      "index": 94,
+      "type": "word",
+      "word": "접근",
+      "start": 59.11,
+      "end": 59.51
+    },
+    {
+      "index": 95,
+      "type": "word",
+      "word": "방식을",
+      "start": 59.51,
+      "end": 60.23
+    },
+    {
+      "index": 96,
+      "type": "word",
+      "word": "선택했습니다.",
+      "start": 60.23,
+      "end": 61.05
+    },
+    {
+      "index": 97,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 61.05,
+      "end": 63.11
+    },
+    {
+      "index": 98,
+      "type": "word",
+      "word": "행동적",
+      "start": 63.11,
+      "end": 64.07
+    },
+    {
+      "index": 99,
+      "type": "word",
+      "word": "접근",
+      "start": 64.07,
+      "end": 64.37
+    },
+    {
+      "index": 100,
+      "type": "word",
+      "word": "방법은",
+      "start": 64.37,
+      "end": 65.05
+    },
+    {
+      "index": 101,
+      "type": "word",
+      "word": "모의",
+      "start": 65.05,
+      "end": 66.55
+    },
+    {
+      "index": 102,
+      "type": "word",
+      "word": "발표",
+      "start": 66.55,
+      "end": 67.15
+    },
+    {
+      "index": 103,
+      "type": "word",
+      "word": "연습을",
+      "start": 67.15,
+      "end": 67.67
+    },
+    {
+      "index": 104,
+      "type": "word",
+      "word": "하고",
+      "start": 67.67,
+      "end": 67.91
+    },
+    {
+      "index": 105,
+      "type": "word",
+      "word": "피드백을",
+      "start": 67.91,
+      "end": 68.85
+    },
+    {
+      "index": 106,
+      "type": "word",
+      "word": "받아서",
+      "start": 68.85,
+      "end": 69.33
+    },
+    {
+      "index": 107,
+      "type": "word",
+      "word": "발표를",
+      "start": 69.33,
+      "end": 70.93
+    },
+    {
+      "index": 108,
+      "type": "word",
+      "word": "수정하는",
+      "start": 70.93,
+      "end": 72.39
+    },
+    {
+      "index": 109,
+      "type": "word",
+      "word": "일련의",
+      "start": 72.39,
+      "end": 73.63
+    },
+    {
+      "index": 110,
+      "type": "word",
+      "word": "과정을",
+      "start": 73.63,
+      "end": 74.05
+    },
+    {
+      "index": 111,
+      "type": "word",
+      "word": "말합니다.",
+      "start": 74.05,
+      "end": 74.53
+    },
+    {
+      "index": 112,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 74.53,
+      "end": 75.19
+    },
+    {
+      "index": 113,
+      "type": "word",
+      "word": "그리고",
+      "start": 75.19,
+      "end": 76.15
+    },
+    {
+      "index": 114,
+      "type": "word",
+      "word": "저희는",
+      "start": 76.15,
+      "end": 76.53
+    },
+    {
+      "index": 115,
+      "type": "word",
+      "word": "한",
+      "start": 76.53,
+      "end": 76.63
+    },
+    {
+      "index": 116,
+      "type": "word",
+      "word": "가지",
+      "start": 76.63,
+      "end": 76.77
+    },
+    {
+      "index": 117,
+      "type": "word",
+      "word": "포인트를",
+      "start": 76.77,
+      "end": 77.19
+    },
+    {
+      "index": 118,
+      "type": "word",
+      "word": "담아놨는데요.",
+      "start": 77.19,
+      "end": 77.67
+    },
+    {
+      "index": 119,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 77.67,
+      "end": 78.01
+    },
+    {
+      "index": 120,
+      "type": "word",
+      "word": "다음은",
+      "start": 78.01,
+      "end": 78.35
+    },
+    {
+      "index": 121,
+      "type": "word",
+      "word": "메타인지입니다.",
+      "start": 78.35,
+      "end": 78.91
+    },
+    {
+      "index": 122,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 78.91,
+      "end": 79.07
+    },
+    {
+      "index": 123,
+      "type": "word",
+      "word": "과연",
+      "start": 79.07,
+      "end": 79.35
+    },
+    {
+      "index": 124,
+      "type": "word",
+      "word": "단순히",
+      "start": 79.35,
+      "end": 80.05
+    },
+    {
+      "index": 125,
+      "type": "word",
+      "word": "발표",
+      "start": 80.05,
+      "end": 80.33
+    },
+    {
+      "index": 126,
+      "type": "word",
+      "word": "연습과",
+      "start": 80.33,
+      "end": 80.75
+    },
+    {
+      "index": 127,
+      "type": "word",
+      "word": "피드백만으로",
+      "start": 80.75,
+      "end": 81.35
+    },
+    {
+      "index": 128,
+      "type": "word",
+      "word": "발표",
+      "start": 81.35,
+      "end": 81.65
+    },
+    {
+      "index": 129,
+      "type": "word",
+      "word": "실력을",
+      "start": 81.65,
+      "end": 82.25
+    },
+    {
+      "index": 130,
+      "type": "word",
+      "word": "형성시킬",
+      "start": 82.25,
+      "end": 83.09
+    },
+    {
+      "index": 131,
+      "type": "word",
+      "word": "수",
+      "start": 83.09,
+      "end": 83.17
+    },
+    {
+      "index": 132,
+      "type": "word",
+      "word": "있을까?",
+      "start": 83.17,
+      "end": 83.57
+    },
+    {
+      "index": 133,
+      "type": "word",
+      "word": "메타인지가",
+      "start": 83.57,
+      "end": 84.05
+    },
+    {
+      "index": 134,
+      "type": "word",
+      "word": "반드시",
+      "start": 84.05,
+      "end": 84.45
+    },
+    {
+      "index": 135,
+      "type": "word",
+      "word": "시선되어야",
+      "start": 84.45,
+      "end": 85.03
+    },
+    {
+      "index": 136,
+      "type": "word",
+      "word": "한다고",
+      "start": 85.03,
+      "end": 85.31
+    },
+    {
+      "index": 137,
+      "type": "word",
+      "word": "생각했습니다.",
+      "start": 85.31,
+      "end": 85.93
+    },
+    {
+      "index": 138,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 85.93,
+      "end": 86.45
+    },
+    {
+      "index": 139,
+      "type": "word",
+      "word": "자신의",
+      "start": 86.45,
+      "end": 87.39
+    },
+    {
+      "index": 140,
+      "type": "word",
+      "word": "현재",
+      "start": 87.39,
+      "end": 87.69
+    },
+    {
+      "index": 141,
+      "type": "word",
+      "word": "상태를",
+      "start": 87.69,
+      "end": 88.37
+    },
+    {
+      "index": 142,
+      "type": "word",
+      "word": "정확히",
+      "start": 88.37,
+      "end": 88.79
+    },
+    {
+      "index": 143,
+      "type": "word",
+      "word": "아는",
+      "start": 88.79,
+      "end": 89.01
+    },
+    {
+      "index": 144,
+      "type": "word",
+      "word": "메타인지를",
+      "start": 89.01,
+      "end": 89.81
+    },
+    {
+      "index": 145,
+      "type": "word",
+      "word": "활성화한다면",
+      "start": 89.81,
+      "end": 90.57
+    },
+    {
+      "index": 146,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 90.57,
+      "end": 91.19
+    },
+    {
+      "index": 147,
+      "type": "word",
+      "word": "실력을",
+      "start": 91.19,
+      "end": 92.01
+    },
+    {
+      "index": 148,
+      "type": "word",
+      "word": "보다",
+      "start": 92.01,
+      "end": 92.47
+    },
+    {
+      "index": 149,
+      "type": "word",
+      "word": "효과적으로",
+      "start": 92.47,
+      "end": 92.99
+    },
+    {
+      "index": 150,
+      "type": "word",
+      "word": "증진시킬",
+      "start": 92.99,
+      "end": 95.45
+    },
+    {
+      "index": 151,
+      "type": "word",
+      "word": "수",
+      "start": 95.45,
+      "end": 96.11
+    },
+    {
+      "index": 152,
+      "type": "word",
+      "word": "있으리라",
+      "start": 96.11,
+      "end": 96.85
+    },
+    {
+      "index": 153,
+      "type": "word",
+      "word": "생각해",
+      "start": 96.85,
+      "end": 97.43
+    },
+    {
+      "index": 154,
+      "type": "word",
+      "word": "메타인지",
+      "start": 97.43,
+      "end": 97.99
+    },
+    {
+      "index": 155,
+      "type": "word",
+      "word": "활용",
+      "start": 97.99,
+      "end": 99.23
+    },
+    {
+      "index": 156,
+      "type": "word",
+      "word": "발표",
+      "start": 99.23,
+      "end": 99.85
+    },
+    {
+      "index": 157,
+      "type": "word",
+      "word": "연습",
+      "start": 99.85,
+      "end": 100.03
+    },
+    {
+      "index": 158,
+      "type": "word",
+      "word": "어시스턴트를",
+      "start": 100.03,
+      "end": 101.09
+    },
+    {
+      "index": 159,
+      "type": "word",
+      "word": "창원했습니다.",
+      "start": 101.09,
+      "end": 101.59
+    },
+    {
+      "index": 160,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 101.59,
+      "end": 103.05
+    },
+    {
+      "index": 161,
+      "type": "word",
+      "word": "다음은",
+      "start": 103.05,
+      "end": 103.89
+    },
+    {
+      "index": 162,
+      "type": "word",
+      "word": "주요",
+      "start": 103.89,
+      "end": 104.13
+    },
+    {
+      "index": 163,
+      "type": "word",
+      "word": "기능입니다.",
+      "start": 104.13,
+      "end": 104.53
+    },
+    {
+      "index": 164,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 104.53,
+      "end": 104.71
+    },
+    {
+      "index": 165,
+      "type": "word",
+      "word": "첫",
+      "start": 104.71,
+      "end": 104.87
+    },
+    {
+      "index": 166,
+      "type": "word",
+      "word": "번째,",
+      "start": 104.87,
+      "end": 105.19
+    },
+    {
+      "index": 167,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 105.19,
+      "end": 105.35
+    },
+    {
+      "index": 168,
+      "type": "word",
+      "word": "사용자가",
+      "start": 105.35,
+      "end": 105.85
+    },
+    {
+      "index": 169,
+      "type": "word",
+      "word": "업로드한",
+      "start": 105.85,
+      "end": 106.89
+    },
+    {
+      "index": 170,
+      "type": "word",
+      "word": "발표",
+      "start": 106.89,
+      "end": 107.31
+    },
+    {
+      "index": 171,
+      "type": "word",
+      "word": "영상을",
+      "start": 107.31,
+      "end": 107.49
+    },
+    {
+      "index": 172,
+      "type": "word",
+      "word": "통해",
+      "start": 107.49,
+      "end": 108.11
+    },
+    {
+      "index": 173,
+      "type": "word",
+      "word": "발표",
+      "start": 108.11,
+      "end": 108.53
+    },
+    {
+      "index": 174,
+      "type": "word",
+      "word": "내용,",
+      "start": 108.53,
+      "end": 108.75
+    },
+    {
+      "index": 175,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 108.75,
+      "end": 109.01
+    },
+    {
+      "index": 176,
+      "type": "word",
+      "word": "음성,",
+      "start": 109.01,
+      "end": 109.37
+    },
+    {
+      "index": 177,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 109.37,
+      "end": 109.45
+    },
+    {
+      "index": 178,
+      "type": "word",
+      "word": "동작들을",
+      "start": 109.45,
+      "end": 110.27
+    },
+    {
+      "index": 179,
+      "type": "word",
+      "word": "분석해",
+      "start": 110.27,
+      "end": 110.93
+    },
+    {
+      "index": 180,
+      "type": "word",
+      "word": "피드백을",
+      "start": 110.93,
+      "end": 111.51
+    },
+    {
+      "index": 181,
+      "type": "word",
+      "word": "제공합니다.",
+      "start": 111.51,
+      "end": 111.87
+    },
+    {
+      "index": 182,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 111.87,
+      "end": 112.01
+    },
+    {
+      "index": 183,
+      "type": "word",
+      "word": "두",
+      "start": 112.01,
+      "end": 112.11
+    },
+    {
+      "index": 184,
+      "type": "word",
+      "word": "번째로,",
+      "start": 112.11,
+      "end": 112.47
+    },
+    {
+      "index": 185,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 112.47,
+      "end": 112.55
+    },
+    {
+      "index": 186,
+      "type": "word",
+      "word": "외적으로",
+      "start": 112.55,
+      "end": 112.89
+    },
+    {
+      "index": 187,
+      "type": "word",
+      "word": "잘",
+      "start": 112.89,
+      "end": 113.13
+    },
+    {
+      "index": 188,
+      "type": "word",
+      "word": "드러나는",
+      "start": 113.13,
+      "end": 113.55
+    },
+    {
+      "index": 189,
+      "type": "word",
+      "word": "피드백",
+      "start": 113.55,
+      "end": 114.27
+    },
+    {
+      "index": 190,
+      "type": "word",
+      "word": "상황,",
+      "start": 114.27,
+      "end": 114.49
+    },
+    {
+      "index": 191,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 114.49,
+      "end": 114.67
+    },
+    {
+      "index": 192,
+      "type": "word",
+      "word": "음성과",
+      "start": 114.67,
+      "end": 115.33
+    },
+    {
+      "index": 193,
+      "type": "word",
+      "word": "동작",
+      "start": 115.33,
+      "end": 115.69
+    },
+    {
+      "index": 194,
+      "type": "word",
+      "word": "피드백은",
+      "start": 115.69,
+      "end": 116.25
+    },
+    {
+      "index": 195,
+      "type": "word",
+      "word": "피드백하는",
+      "start": 116.25,
+      "end": 117.19
+    },
+    {
+      "index": 196,
+      "type": "word",
+      "word": "부분을",
+      "start": 117.19,
+      "end": 117.71
+    },
+    {
+      "index": 197,
+      "type": "word",
+      "word": "짧게",
+      "start": 117.71,
+      "end": 117.99
+    },
+    {
+      "index": 198,
+      "type": "word",
+      "word": "자르고",
+      "start": 117.99,
+      "end": 118.33
+    },
+    {
+      "index": 199,
+      "type": "word",
+      "word": "피드백을",
+      "start": 118.33,
+      "end": 119.13
+    },
+    {
+      "index": 200,
+      "type": "word",
+      "word": "추가해",
+      "start": 119.13,
+      "end": 119.51
+    },
+    {
+      "index": 201,
+      "type": "word",
+      "word": "제공하고자",
+      "start": 119.51,
+      "end": 120.51
+    },
+    {
+      "index": 202,
+      "type": "word",
+      "word": "합니다.",
+      "start": 120.51,
+      "end": 120.67
+    },
+    {
+      "index": 203,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 120.67,
+      "end": 121.73
+    },
+    {
+      "index": 204,
+      "type": "word",
+      "word": "세",
+      "start": 121.73,
+      "end": 122.29
+    },
+    {
+      "index": 205,
+      "type": "word",
+      "word": "번째,",
+      "start": 122.29,
+      "end": 122.59
+    },
+    {
+      "index": 206,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 122.59,
+      "end": 122.81
+    },
+    {
+      "index": 207,
+      "type": "word",
+      "word": "사용자는",
+      "start": 122.81,
+      "end": 123.75
+    },
+    {
+      "index": 208,
+      "type": "word",
+      "word": "피드백",
+      "start": 123.75,
+      "end": 124.83
+    },
+    {
+      "index": 209,
+      "type": "word",
+      "word": "전후로",
+      "start": 124.83,
+      "end": 125.25
+    },
+    {
+      "index": 210,
+      "type": "word",
+      "word": "발표",
+      "start": 125.25,
+      "end": 126.67
+    },
+    {
+      "index": 211,
+      "type": "word",
+      "word": "영상을",
+      "start": 126.67,
+      "end": 126.87
+    },
+    {
+      "index": 212,
+      "type": "word",
+      "word": "촬영함으로써",
+      "start": 126.87,
+      "end": 127.91
+    },
+    {
+      "index": 213,
+      "type": "word",
+      "word": "발표를",
+      "start": 127.91,
+      "end": 129.09
+    },
+    {
+      "index": 214,
+      "type": "word",
+      "word": "비교하고",
+      "start": 129.09,
+      "end": 129.65
+    },
+    {
+      "index": 215,
+      "type": "word",
+      "word": "자기",
+      "start": 129.65,
+      "end": 130.47
+    },
+    {
+      "index": 216,
+      "type": "word",
+      "word": "점검을",
+      "start": 130.47,
+      "end": 131.29
+    },
+    {
+      "index": 217,
+      "type": "word",
+      "word": "할",
+      "start": 131.29,
+      "end": 131.53
+    },
+    {
+      "index": 218,
+      "type": "word",
+      "word": "수",
+      "start": 131.53,
+      "end": 131.65
+    },
+    {
+      "index": 219,
+      "type": "word",
+      "word": "있습니다.",
+      "start": 131.65,
+      "end": 132.03
+    },
+    {
+      "index": 220,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 132.03,
+      "end": 134.31
+    },
+    {
+      "index": 221,
+      "type": "word",
+      "word": "작품",
+      "start": 134.31,
+      "end": 134.87
+    },
+    {
+      "index": 222,
+      "type": "word",
+      "word": "구상입니다.",
+      "start": 134.87,
+      "end": 135.37
+    },
+    {
+      "index": 223,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 135.37,
+      "end": 135.63
+    },
+    {
+      "index": 224,
+      "type": "word",
+      "word": "첫",
+      "start": 135.63,
+      "end": 135.87
+    },
+    {
+      "index": 225,
+      "type": "word",
+      "word": "번째는",
+      "start": 135.87,
+      "end": 137.33
+    },
+    {
+      "index": 226,
+      "type": "word",
+      "word": "인지",
+      "start": 137.33,
+      "end": 137.89
+    },
+    {
+      "index": 227,
+      "type": "word",
+      "word": "단계입니다.",
+      "start": 137.89,
+      "end": 138.63
+    },
+    {
+      "index": 228,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 138.63,
+      "end": 139.19
+    },
+    {
+      "index": 229,
+      "type": "word",
+      "word": "우선",
+      "start": 139.19,
+      "end": 139.55
+    },
+    {
+      "index": 230,
+      "type": "word",
+      "word": "사용자에게",
+      "start": 139.55,
+      "end": 140.49
+    },
+    {
+      "index": 231,
+      "type": "word",
+      "word": "발표",
+      "start": 140.49,
+      "end": 141.29
+    },
+    {
+      "index": 232,
+      "type": "word",
+      "word": "상황을",
+      "start": 141.29,
+      "end": 141.97
+    },
+    {
+      "index": 233,
+      "type": "word",
+      "word": "입력받습니다.",
+      "start": 141.97,
+      "end": 142.75
+    },
+    {
+      "index": 234,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 142.75,
+      "end": 142.97
+    },
+    {
+      "index": 235,
+      "type": "word",
+      "word": "이는",
+      "start": 142.97,
+      "end": 143.41
+    },
+    {
+      "index": 236,
+      "type": "word",
+      "word": "총",
+      "start": 143.41,
+      "end": 143.63
+    },
+    {
+      "index": 237,
+      "type": "word",
+      "word": "두",
+      "start": 143.63,
+      "end": 143.93
+    },
+    {
+      "index": 238,
+      "type": "word",
+      "word": "곳의",
+      "start": 143.93,
+      "end": 144.27
+    },
+    {
+      "index": 239,
+      "type": "word",
+      "word": "수입니다.",
+      "start": 144.27,
+      "end": 144.65
+    },
+    {
+      "index": 240,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 144.65,
+      "end": 148.17
+    },
+    {
+      "index": 241,
+      "type": "word",
+      "word": "하나는",
+      "start": 148.17,
+      "end": 149.19
+    },
+    {
+      "index": 242,
+      "type": "word",
+      "word": "사용자가",
+      "start": 149.19,
+      "end": 149.91
+    },
+    {
+      "index": 243,
+      "type": "word",
+      "word": "발표",
+      "start": 149.91,
+      "end": 150.41
+    },
+    {
+      "index": 244,
+      "type": "word",
+      "word": "상황에",
+      "start": 150.41,
+      "end": 151.27
+    },
+    {
+      "index": 245,
+      "type": "word",
+      "word": "대해서",
+      "start": 151.27,
+      "end": 151.47
+    },
+    {
+      "index": 246,
+      "type": "word",
+      "word": "얼마나",
+      "start": 151.47,
+      "end": 151.87
+    },
+    {
+      "index": 247,
+      "type": "word",
+      "word": "잘",
+      "start": 151.87,
+      "end": 152.21
+    },
+    {
+      "index": 248,
+      "type": "word",
+      "word": "알고",
+      "start": 152.21,
+      "end": 152.87
+    },
+    {
+      "index": 249,
+      "type": "word",
+      "word": "있는지",
+      "start": 152.87,
+      "end": 153.67
+    },
+    {
+      "index": 250,
+      "type": "word",
+      "word": "자기",
+      "start": 153.67,
+      "end": 155.61
+    },
+    {
+      "index": 251,
+      "type": "word",
+      "word": "점검",
+      "start": 155.61,
+      "end": 156.05
+    },
+    {
+      "index": 252,
+      "type": "word",
+      "word": "기회를",
+      "start": 156.05,
+      "end": 156.43
+    },
+    {
+      "index": 253,
+      "type": "word",
+      "word": "주고",
+      "start": 156.43,
+      "end": 156.65
+    },
+    {
+      "index": 254,
+      "type": "word",
+      "word": "두",
+      "start": 156.65,
+      "end": 157.17
+    },
+    {
+      "index": 255,
+      "type": "word",
+      "word": "번째는",
+      "start": 157.17,
+      "end": 157.65
+    },
+    {
+      "index": 256,
+      "type": "word",
+      "word": "발표",
+      "start": 157.65,
+      "end": 158.37
+    },
+    {
+      "index": 257,
+      "type": "word",
+      "word": "맞춤형",
+      "start": 158.37,
+      "end": 159.85
+    },
+    {
+      "index": 258,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 159.85,
+      "end": 161.58
+    },
+    {
+      "index": 259,
+      "type": "word",
+      "word": "피드백을",
+      "start": 161.58,
+      "end": 163.28
+    },
+    {
+      "index": 260,
+      "type": "word",
+      "word": "제공하기",
+      "start": 163.28,
+      "end": 165.42
+    },
+    {
+      "index": 261,
+      "type": "word",
+      "word": "위함입니다.",
+      "start": 165.42,
+      "end": 166.06
+    },
+    {
+      "index": 262,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 166.06,
+      "end": 166.18
+    },
+    {
+      "index": 263,
+      "type": "word",
+      "word": "다음으로",
+      "start": 166.18,
+      "end": 167.2
+    },
+    {
+      "index": 264,
+      "type": "word",
+      "word": "사용자가",
+      "start": 167.2,
+      "end": 167.94
+    },
+    {
+      "index": 265,
+      "type": "word",
+      "word": "자신의",
+      "start": 167.94,
+      "end": 168.36
+    },
+    {
+      "index": 266,
+      "type": "word",
+      "word": "발표",
+      "start": 168.36,
+      "end": 168.66
+    },
+    {
+      "index": 267,
+      "type": "word",
+      "word": "영상을",
+      "start": 168.66,
+      "end": 168.86
+    },
+    {
+      "index": 268,
+      "type": "word",
+      "word": "찍고",
+      "start": 168.86,
+      "end": 170.4
+    },
+    {
+      "index": 269,
+      "type": "word",
+      "word": "업로드하고",
+      "start": 170.4,
+      "end": 171.02
+    },
+    {
+      "index": 270,
+      "type": "word",
+      "word": "이제",
+      "start": 171.02,
+      "end": 172.28
+    },
+    {
+      "index": 271,
+      "type": "word",
+      "word": "해당",
+      "start": 172.28,
+      "end": 173.02
+    },
+    {
+      "index": 272,
+      "type": "word",
+      "word": "발표",
+      "start": 173.02,
+      "end": 173.38
+    },
+    {
+      "index": 273,
+      "type": "word",
+      "word": "연습에",
+      "start": 173.38,
+      "end": 173.86
+    },
+    {
+      "index": 274,
+      "type": "word",
+      "word": "대한",
+      "start": 173.86,
+      "end": 174.06
+    },
+    {
+      "index": 275,
+      "type": "word",
+      "word": "자기",
+      "start": 174.06,
+      "end": 174.28
+    },
+    {
+      "index": 276,
+      "type": "word",
+      "word": "평가를",
+      "start": 174.28,
+      "end": 174.88
+    },
+    {
+      "index": 277,
+      "type": "word",
+      "word": "하게",
+      "start": 174.88,
+      "end": 175.2
+    },
+    {
+      "index": 278,
+      "type": "word",
+      "word": "됩니다.",
+      "start": 175.2,
+      "end": 175.44
+    },
+    {
+      "index": 279,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 175.44,
+      "end": 176.38
+    },
+    {
+      "index": 280,
+      "type": "word",
+      "word": "이",
+      "start": 176.38,
+      "end": 176.72
+    },
+    {
+      "index": 281,
+      "type": "word",
+      "word": "자기",
+      "start": 176.72,
+      "end": 177.4
+    },
+    {
+      "index": 282,
+      "type": "word",
+      "word": "평가는",
+      "start": 177.4,
+      "end": 177.96
+    },
+    {
+      "index": 283,
+      "type": "word",
+      "word": "사용자의",
+      "start": 177.96,
+      "end": 179.16
+    },
+    {
+      "index": 284,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 179.16,
+      "end": 180.72
+    },
+    {
+      "index": 285,
+      "type": "word",
+      "word": "메타인지가",
+      "start": 180.72,
+      "end": 181.36
+    },
+    {
+      "index": 286,
+      "type": "word",
+      "word": "얼마나",
+      "start": 181.36,
+      "end": 181.76
+    },
+    {
+      "index": 287,
+      "type": "word",
+      "word": "활성화되어",
+      "start": 181.76,
+      "end": 182.64
+    },
+    {
+      "index": 288,
+      "type": "word",
+      "word": "있는지",
+      "start": 182.64,
+      "end": 183.12
+    },
+    {
+      "index": 289,
+      "type": "word",
+      "word": "피드백",
+      "start": 183.12,
+      "end": 185.26
+    },
+    {
+      "index": 290,
+      "type": "word",
+      "word": "보고서에",
+      "start": 185.26,
+      "end": 186.32
+    },
+    {
+      "index": 291,
+      "type": "word",
+      "word": "나타날",
+      "start": 186.32,
+      "end": 186.82
+    },
+    {
+      "index": 292,
+      "type": "word",
+      "word": "때",
+      "start": 186.82,
+      "end": 186.98
+    },
+    {
+      "index": 293,
+      "type": "word",
+      "word": "쓰일",
+      "start": 186.98,
+      "end": 187.26
+    },
+    {
+      "index": 294,
+      "type": "word",
+      "word": "예정입니다.",
+      "start": 187.26,
+      "end": 187.72
+    },
+    {
+      "index": 295,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 187.72,
+      "end": 187.88
+    },
+    {
+      "index": 296,
+      "type": "word",
+      "word": "이러한",
+      "start": 187.88,
+      "end": 188.92
+    },
+    {
+      "index": 297,
+      "type": "word",
+      "word": "데이터는",
+      "start": 188.92,
+      "end": 189.38
+    },
+    {
+      "index": 298,
+      "type": "word",
+      "word": "분석",
+      "start": 189.38,
+      "end": 189.82
+    },
+    {
+      "index": 299,
+      "type": "word",
+      "word": "모델을",
+      "start": 189.82,
+      "end": 190.38
+    },
+    {
+      "index": 300,
+      "type": "word",
+      "word": "거쳐",
+      "start": 190.38,
+      "end": 190.84
+    },
+    {
+      "index": 301,
+      "type": "word",
+      "word": "피드백을",
+      "start": 190.84,
+      "end": 191.96
+    },
+    {
+      "index": 302,
+      "type": "word",
+      "word": "생성하는데",
+      "start": 191.96,
+      "end": 192.58
+    },
+    {
+      "index": 303,
+      "type": "word",
+      "word": "사용되고,",
+      "start": 192.58,
+      "end": 193.36
+    },
+    {
+      "index": 304,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 193.36,
+      "end": 193.94
+    },
+    {
+      "index": 305,
+      "type": "word",
+      "word": "앞서",
+      "start": 193.94,
+      "end": 195.92
+    },
+    {
+      "index": 306,
+      "type": "word",
+      "word": "말씀드린",
+      "start": 195.92,
+      "end": 196.56
+    },
+    {
+      "index": 307,
+      "type": "word",
+      "word": "것처럼",
+      "start": 196.56,
+      "end": 196.82
+    },
+    {
+      "index": 308,
+      "type": "word",
+      "word": "피드백은",
+      "start": 196.82,
+      "end": 197.54
+    },
+    {
+      "index": 309,
+      "type": "word",
+      "word": "영상과",
+      "start": 197.54,
+      "end": 198.08
+    },
+    {
+      "index": 310,
+      "type": "word",
+      "word": "보고서",
+      "start": 198.08,
+      "end": 198.5
+    },
+    {
+      "index": 311,
+      "type": "word",
+      "word": "총",
+      "start": 198.5,
+      "end": 198.64
+    },
+    {
+      "index": 312,
+      "type": "word",
+      "word": "두",
+      "start": 198.64,
+      "end": 198.86
+    },
+    {
+      "index": 313,
+      "type": "word",
+      "word": "가지",
+      "start": 198.86,
+      "end": 199.04
+    },
+    {
+      "index": 314,
+      "type": "word",
+      "word": "형태로",
+      "start": 199.04,
+      "end": 199.36
+    },
+    {
+      "index": 315,
+      "type": "word",
+      "word": "제공됩니다.",
+      "start": 199.36,
+      "end": 199.9
+    },
+    {
+      "index": 316,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 199.9,
+      "end": 200.1
+    },
+    {
+      "index": 317,
+      "type": "word",
+      "word": "이러한",
+      "start": 200.1,
+      "end": 200.8
+    },
+    {
+      "index": 318,
+      "type": "word",
+      "word": "피드백을",
+      "start": 200.8,
+      "end": 201.22
+    },
+    {
+      "index": 319,
+      "type": "word",
+      "word": "확인하는",
+      "start": 201.22,
+      "end": 201.74
+    },
+    {
+      "index": 320,
+      "type": "word",
+      "word": "단계가",
+      "start": 201.74,
+      "end": 202.26
+    },
+    {
+      "index": 321,
+      "type": "word",
+      "word": "모니터링입니다.",
+      "start": 202.26,
+      "end": 202.98
+    },
+    {
+      "index": 322,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 202.98,
+      "end": 203.64
+    },
+    {
+      "index": 323,
+      "type": "word",
+      "word": "사용자가",
+      "start": 203.64,
+      "end": 204.68
+    },
+    {
+      "index": 324,
+      "type": "word",
+      "word": "이러한",
+      "start": 204.68,
+      "end": 204.96
+    },
+    {
+      "index": 325,
+      "type": "word",
+      "word": "피드백을",
+      "start": 204.96,
+      "end": 205.48
+    },
+    {
+      "index": 326,
+      "type": "word",
+      "word": "선택적으로",
+      "start": 205.48,
+      "end": 205.96
+    },
+    {
+      "index": 327,
+      "type": "word",
+      "word": "수용하고",
+      "start": 205.96,
+      "end": 206.68
+    },
+    {
+      "index": 328,
+      "type": "word",
+      "word": "발표를",
+      "start": 206.68,
+      "end": 207.54
+    },
+    {
+      "index": 329,
+      "type": "word",
+      "word": "수정합니다.",
+      "start": 207.54,
+      "end": 207.92
+    },
+    {
+      "index": 330,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 207.92,
+      "end": 207.94
+    },
+    {
+      "index": 331,
+      "type": "word",
+      "word": "단계가",
+      "start": 207.94,
+      "end": 208.54
+    },
+    {
+      "index": 332,
+      "type": "word",
+      "word": "수용",
+      "start": 208.54,
+      "end": 209.1
+    },
+    {
+      "index": 333,
+      "type": "word",
+      "word": "조절",
+      "start": 209.1,
+      "end": 209.34
+    },
+    {
+      "index": 334,
+      "type": "word",
+      "word": "단계고,",
+      "start": 209.34,
+      "end": 209.82
+    },
+    {
+      "index": 335,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 209.82,
+      "end": 209.86
+    },
+    {
+      "index": 336,
+      "type": "word",
+      "word": "수정한",
+      "start": 209.86,
+      "end": 210.5
+    },
+    {
+      "index": 337,
+      "type": "word",
+      "word": "내용을",
+      "start": 210.5,
+      "end": 211.28
+    },
+    {
+      "index": 338,
+      "type": "word",
+      "word": "재발표하고",
+      "start": 211.28,
+      "end": 212.02
+    },
+    {
+      "index": 339,
+      "type": "word",
+      "word": "피드백",
+      "start": 212.02,
+      "end": 212.62
+    },
+    {
+      "index": 340,
+      "type": "word",
+      "word": "전후의",
+      "start": 212.62,
+      "end": 212.94
+    },
+    {
+      "index": 341,
+      "type": "word",
+      "word": "발표를",
+      "start": 212.94,
+      "end": 213.28
+    },
+    {
+      "index": 342,
+      "type": "word",
+      "word": "비교하는",
+      "start": 213.28,
+      "end": 213.64
+    },
+    {
+      "index": 343,
+      "type": "word",
+      "word": "단계가",
+      "start": 213.64,
+      "end": 214.06
+    },
+    {
+      "index": 344,
+      "type": "word",
+      "word": "개선",
+      "start": 214.06,
+      "end": 214.84
+    },
+    {
+      "index": 345,
+      "type": "word",
+      "word": "확인",
+      "start": 214.84,
+      "end": 215.02
+    },
+    {
+      "index": 346,
+      "type": "word",
+      "word": "단계입니다.",
+      "start": 215.02,
+      "end": 215.48
+    },
+    {
+      "index": 347,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 215.48,
+      "end": 216.52
+    },
+    {
+      "index": 348,
+      "type": "word",
+      "word": "마지막으로",
+      "start": 216.52,
+      "end": 216.98
+    },
+    {
+      "index": 349,
+      "type": "word",
+      "word": "기대",
+      "start": 216.98,
+      "end": 217.28
+    },
+    {
+      "index": 350,
+      "type": "word",
+      "word": "효과입니다.",
+      "start": 217.28,
+      "end": 217.82
+    },
+    {
+      "index": 351,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 217.82,
+      "end": 218.62
+    },
+    {
+      "index": 352,
+      "type": "word",
+      "word": "사용자는",
+      "start": 218.62,
+      "end": 219.54
+    },
+    {
+      "index": 353,
+      "type": "word",
+      "word": "발표",
+      "start": 219.54,
+      "end": 220.08
+    },
+    {
+      "index": 354,
+      "type": "word",
+      "word": "연습을",
+      "start": 220.08,
+      "end": 221.56
+    },
+    {
+      "index": 355,
+      "type": "word",
+      "word": "반복적으로",
+      "start": 221.56,
+      "end": 222.0
+    },
+    {
+      "index": 356,
+      "type": "word",
+      "word": "하고",
+      "start": 222.0,
+      "end": 222.4
+    },
+    {
+      "index": 357,
+      "type": "word",
+      "word": "피드백",
+      "start": 222.4,
+      "end": 223.06
+    },
+    {
+      "index": 358,
+      "type": "word",
+      "word": "반영",
+      "start": 223.06,
+      "end": 223.46
+    },
+    {
+      "index": 359,
+      "type": "word",
+      "word": "과정을",
+      "start": 223.46,
+      "end": 224.08
+    },
+    {
+      "index": 360,
+      "type": "word",
+      "word": "통해",
+      "start": 224.08,
+      "end": 225.24
+    },
+    {
+      "index": 361,
+      "type": "word",
+      "word": "메타인지를",
+      "start": 225.24,
+      "end": 226.2
+    },
+    {
+      "index": 362,
+      "type": "word",
+      "word": "활성화할",
+      "start": 226.2,
+      "end": 226.82
+    },
+    {
+      "index": 363,
+      "type": "word",
+      "word": "수",
+      "start": 226.82,
+      "end": 226.88
+    },
+    {
+      "index": 364,
+      "type": "word",
+      "word": "있습니다.",
+      "start": 226.88,
+      "end": 227.16
+    },
+    {
+      "index": 365,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 227.16,
+      "end": 227.36
+    },
+    {
+      "index": 366,
+      "type": "word",
+      "word": "또한",
+      "start": 227.36,
+      "end": 227.78
+    },
+    {
+      "index": 367,
+      "type": "word",
+      "word": "이로",
+      "start": 227.78,
+      "end": 228.02
+    },
+    {
+      "index": 368,
+      "type": "word",
+      "word": "인해",
+      "start": 228.02,
+      "end": 228.4
+    },
+    {
+      "index": 369,
+      "type": "word",
+      "word": "발표",
+      "start": 228.4,
+      "end": 229.04
+    },
+    {
+      "index": 370,
+      "type": "word",
+      "word": "불안을",
+      "start": 229.04,
+      "end": 229.56
+    },
+    {
+      "index": 371,
+      "type": "word",
+      "word": "완화하고",
+      "start": 229.56,
+      "end": 230.02
+    },
+    {
+      "index": 372,
+      "type": "word",
+      "word": "발표",
+      "start": 230.02,
+      "end": 230.72
+    },
+    {
+      "index": 373,
+      "type": "word",
+      "word": "실력",
+      "start": 230.72,
+      "end": 231.06
+    },
+    {
+      "index": 374,
+      "type": "word",
+      "word": "향상과",
+      "start": 231.06,
+      "end": 231.54
+    },
+    {
+      "index": 375,
+      "type": "word",
+      "word": "자신감을",
+      "start": 231.54,
+      "end": 232.0
+    },
+    {
+      "index": 376,
+      "type": "word",
+      "word": "증진할",
+      "start": 232.0,
+      "end": 232.46
+    },
+    {
+      "index": 377,
+      "type": "word",
+      "word": "수",
+      "start": 232.46,
+      "end": 232.58
+    },
+    {
+      "index": 378,
+      "type": "word",
+      "word": "있습니다.",
+      "start": 232.58,
+      "end": 232.86
+    },
+    {
+      "index": 379,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 232.86,
+      "end": 233.66
+    },
+    {
+      "index": 380,
+      "type": "word",
+      "word": "이상",
+      "start": 233.66,
+      "end": 234.12
+    },
+    {
+      "index": 381,
+      "type": "word",
+      "word": "발표를",
+      "start": 234.12,
+      "end": 234.52
+    },
+    {
+      "index": 382,
+      "type": "word",
+      "word": "마치겠습니다.",
+      "start": 234.52,
+      "end": 234.98
+    },
+    {
+      "index": 383,
+      "type": "pause",
+      "word": "<pause>",
+      "start": 234.98,
+      "end": 235.28
+    },
+    {
+      "index": 384,
+      "type": "word",
+      "word": "감사합니다.",
+      "start": 235.28,
+      "end": 235.5
+    }
+  ]
+}

@@ -1,1 +1,834 @@
-{'ok': True, 'video': {'path': '/tmp/dl_89f5b2ccef6b40738e670b92f8413742.mp4', 'fps': 29.998428814053884, 'total_frames': 13365, 'width': 1920, 'height': 1080, 'duration_sec': 445.5233333333333, 'processed_frames': 13365, 'analysis_time_sec': 1826.041529417038}, 'timeline': [{'label': 'Swaying body', 'start': 1.933, 'end': 2.533, 'duration': 0.6, 'avg_score': 0.6527, 'max_score': 0.8109, 'frames': 18}, {'label': 'Touching body', 'start': 2.533, 'end': 10.301, 'duration': 7.767, 'avg_score': 0.9162, 'max_score': 0.9902, 'frames': 233}, {'label': 'Touching face', 'start': 11.034, 'end': 12.367, 'duration': 1.333, 'avg_score': 0.5819, 'max_score': 0.7776, 'frames': 40}, {'label': 'Touching body', 'start': 12.367, 'end': 26.168, 'duration': 13.801, 'avg_score': 0.9321, 'max_score': 0.9893, 'frames': 414}, {'label': 'Touching face', 'start': 27.401, 'end': 28.301, 'duration': 0.9, 'avg_score': 0.6516, 'max_score': 0.7348, 'frames': 27}, {'label': 'Touching face', 'start': 28.702, 'end': 31.002, 'duration': 2.3, 'avg_score': 0.7343, 'max_score': 0.8523, 'frames': 69}, {'label': 'Swaying body', 'start': 31.002, 'end': 31.802, 'duration': 0.8, 'avg_score': 0.527, 'max_score': 0.6496, 'frames': 24}, {'label': 'Touching body', 'start': 31.968, 'end': 40.202, 'duration': 8.234, 'avg_score': 0.9304, 'max_score': 0.9884, 'frames': 247}, {'label': 'Swaying body', 'start': 40.202, 'end': 41.035, 'duration': 0.833, 'avg_score': 0.5142, 'max_score': 0.5833, 'frames': 25}, {'label': 'Touching face', 'start': 41.035, 'end': 44.002, 'duration': 2.967, 'avg_score': 0.5346, 'max_score': 0.7058, 'frames': 89}, {'label': 'Swaying body', 'start': 44.002, 'end': 44.702, 'duration': 0.7, 'avg_score': 0.4172, 'max_score': 0.4578, 'frames': 21}, {'label': 'Touching body', 'start': 44.702, 'end': 54.003, 'duration': 9.3, 'avg_score': 0.8629, 'max_score': 0.9546, 'frames': 279}, {'label': 'Swaying body', 'start': 54.003, 'end': 54.57, 'duration': 0.567, 'avg_score': 0.5879, 'max_score': 0.6624, 'frames': 17}, {'label': 'Swaying body', 'start': 55.136, 'end': 56.203, 'duration': 1.067, 'avg_score': 0.5158, 'max_score': 0.5573, 'frames': 32}, {'label': 'Touching body', 'start': 56.203, 'end': 57.336, 'duration': 1.133, 'avg_score': 0.7523, 'max_score': 0.9257, 'frames': 34}, {'label': 'Touching face', 'start': 57.836, 'end': 62.837, 'duration': 5.0, 'avg_score': 0.8215, 'max_score': 0.9965, 'frames': 150}, {'label': 'Touching body', 'start': 62.837, 'end': 72.337, 'duration': 9.5, 'avg_score': 0.9346, 'max_score': 0.9903, 'frames': 285}, {'label': 'Touching face', 'start': 72.37, 'end': 87.705, 'duration': 15.334, 'avg_score': 0.9263, 'max_score': 0.9997, 'frames': 460}, {'label': 'Touching face', 'start': 88.171, 'end': 90.305, 'duration': 2.133, 'avg_score': 0.736, 'max_score': 0.8737, 'frames': 64}, {'label': 'Touching face', 'start': 90.438, 'end': 103.139, 'duration': 12.701, 'avg_score': 0.8964, 'max_score': 0.9996, 'frames': 381}, {'label': 'Touching body', 'start': 103.639, 'end': 121.206, 'duration': 17.568, 'avg_score': 0.8772, 'max_score': 0.9908, 'frames': 527}, {'label': 'Swaying body', 'start': 121.273, 'end': 121.873, 'duration': 0.6, 'avg_score': 0.4868, 'max_score': 0.5254, 'frames': 18}, {'label': 'Touching face', 'start': 121.873, 'end': 128.64, 'duration': 6.767, 'avg_score': 0.583, 'max_score': 0.6943, 'frames': 203}, {'label': 'Swaying body', 'start': 128.907, 'end': 129.773, 'duration': 0.867, 'avg_score': 0.4852, 'max_score': 0.5366, 'frames': 26}, {'label': 'Touching body', 'start': 129.773, 'end': 146.641, 'duration': 16.868, 'avg_score': 0.9252, 'max_score': 0.9522, 'frames': 506}, {'label': 'Touching face', 'start': 146.674, 'end': 151.908, 'duration': 5.234, 'avg_score': 0.9262, 'max_score': 0.9997, 'frames': 157}, {'label': 'Touching body', 'start': 152.008, 'end': 175.576, 'duration': 23.568, 'avg_score': 0.923, 'max_score': 0.9728, 'frames': 707}, {'label': 'Swaying body', 'start': 175.976, 'end': 176.943, 'duration': 0.967, 'avg_score': 0.3863, 'max_score': 0.4067, 'frames': 29}, {'label': 'Touching body', 'start': 176.943, 'end': 180.576, 'duration': 3.634, 'avg_score': 0.8939, 'max_score': 0.965, 'frames': 109}, {'label': 'Swaying body', 'start': 180.576, 'end': 182.476, 'duration': 1.9, 'avg_score': 0.5565, 'max_score': 0.6528, 'frames': 57}, {'label': 'Touching body', 'start': 182.476, 'end': 198.544, 'duration': 16.068, 'avg_score': 0.8667, 'max_score': 0.9768, 'frames': 482}, {'label': 'Swaying body', 'start': 198.544, 'end': 199.444, 'duration': 0.9, 'avg_score': 0.4392, 'max_score': 0.481, 'frames': 27}, {'label': 'Touching body', 'start': 199.677, 'end': 231.079, 'duration': 31.402, 'avg_score': 0.8871, 'max_score': 0.9667, 'frames': 942}, {'label': 'Swaying body', 'start': 231.212, 'end': 233.879, 'duration': 2.667, 'avg_score': 0.6163, 'max_score': 0.7847, 'frames': 80}, {'label': 'Swaying body', 'start': 234.046, 'end': 234.579, 'duration': 0.533, 'avg_score': 0.6869, 'max_score': 0.8202, 'frames': 16}, {'label': 'Touching face', 'start': 234.579, 'end': 242.946, 'duration': 8.367, 'avg_score': 0.7133, 'max_score': 0.978, 'frames': 251}, {'label': 'Touching body', 'start': 243.379, 'end': 245.013, 'duration': 1.633, 'avg_score': 0.7845, 'max_score': 0.9588, 'frames': 49}, {'label': 'Swaying body', 'start': 245.213, 'end': 246.113, 'duration': 0.9, 'avg_score': 0.6065, 'max_score': 0.7235, 'frames': 27}, {'label': 'Touching face', 'start': 246.246, 'end': 247.613, 'duration': 1.367, 'avg_score': 0.6533, 'max_score': 0.7938, 'frames': 41}, {'label': 'Swaying body', 'start': 247.98, 'end': 249.78, 'duration': 1.8, 'avg_score': 0.5487, 'max_score': 0.6967, 'frames': 54}, {'label': 'Touching body', 'start': 249.78, 'end': 256.58, 'duration': 6.8, 'avg_score': 0.9229, 'max_score': 0.9905, 'frames': 204}, {'label': 'Touching face', 'start': 256.68, 'end': 259.147, 'duration': 2.467, 'avg_score': 0.8422, 'max_score': 0.9766, 'frames': 74}, {'label': 'Touching face', 'start': 259.18, 'end': 267.014, 'duration': 7.834, 'avg_score': 0.9073, 'max_score': 0.9995, 'frames': 235}, {'label': 'Touching body', 'start': 267.314, 'end': 271.014, 'duration': 3.7, 'avg_score': 0.8708, 'max_score': 0.9813, 'frames': 111}, {'label': 'Swaying body', 'start': 271.314, 'end': 271.848, 'duration': 0.533, 'avg_score': 0.5828, 'max_score': 0.7288, 'frames': 16}, {'label': 'Touching face', 'start': 271.948, 'end': 273.948, 'duration': 2.0, 'avg_score': 0.7389, 'max_score': 0.9132, 'frames': 60}, {'label': 'Touching body', 'start': 274.448, 'end': 276.081, 'duration': 1.633, 'avg_score': 0.5376, 'max_score': 0.7346, 'frames': 49}, {'label': 'Touching face', 'start': 276.348, 'end': 279.948, 'duration': 3.6, 'avg_score': 0.8206, 'max_score': 0.9957, 'frames': 108}, {'label': 'Touching body', 'start': 279.948, 'end': 282.815, 'duration': 2.867, 'avg_score': 0.8759, 'max_score': 0.9898, 'frames': 86}, {'label': 'Touching face', 'start': 283.015, 'end': 283.582, 'duration': 0.567, 'avg_score': 0.4596, 'max_score': 0.5073, 'frames': 17}, {'label': 'Touching face', 'start': 283.882, 'end': 284.382, 'duration': 0.5, 'avg_score': 0.5527, 'max_score': 0.6438, 'frames': 15}, {'label': 'Swaying body', 'start': 284.448, 'end': 285.882, 'duration': 1.433, 'avg_score': 0.4931, 'max_score': 0.5941, 'frames': 43}, {'label': 'Touching face', 'start': 285.882, 'end': 288.382, 'duration': 2.5, 'avg_score': 0.8205, 'max_score': 0.9838, 'frames': 75}, {'label': 'Touching body', 'start': 288.415, 'end': 293.815, 'duration': 5.4, 'avg_score': 0.9512, 'max_score': 0.9937, 'frames': 162}, {'label': 'Touching face', 'start': 293.815, 'end': 301.216, 'duration': 7.4, 'avg_score': 0.8129, 'max_score': 0.9995, 'frames': 222}, {'label': 'Touching face', 'start': 301.882, 'end': 302.416, 'duration': 0.533, 'avg_score': 0.5629, 'max_score': 0.6252, 'frames': 16}, {'label': 'Swaying body', 'start': 302.416, 'end': 303.449, 'duration': 1.033, 'avg_score': 0.637, 'max_score': 0.7294, 'frames': 31}, {'label': 'Swaying body', 'start': 303.983, 'end': 304.549, 'duration': 0.567, 'avg_score': 0.4368, 'max_score': 0.4847, 'frames': 17}, {'label': 'Swaying body', 'start': 304.583, 'end': 305.083, 'duration': 0.5, 'avg_score': 0.4349, 'max_score': 0.4748, 'frames': 15}, {'label': 'Touching face', 'start': 305.083, 'end': 305.649, 'duration': 0.567, 'avg_score': 0.5265, 'max_score': 0.561, 'frames': 17}, {'label': 'Swaying body', 'start': 306.316, 'end': 306.916, 'duration': 0.6, 'avg_score': 0.4822, 'max_score': 0.5791, 'frames': 18}, {'label': 'Touching body', 'start': 307.383, 'end': 326.984, 'duration': 19.601, 'avg_score': 0.9572, 'max_score': 0.9959, 'frames': 588}, {'label': 'Touching face', 'start': 326.984, 'end': 337.951, 'duration': 10.967, 'avg_score': 0.9765, 'max_score': 0.9997, 'frames': 329}, {'label': 'Swaying body', 'start': 337.951, 'end': 342.018, 'duration': 4.067, 'avg_score': 0.8322, 'max_score': 0.9593, 'frames': 122}, {'label': 'Touching face', 'start': 342.018, 'end': 352.552, 'duration': 10.534, 'avg_score': 0.9241, 'max_score': 0.9996, 'frames': 316}, {'label': 'Swaying body', 'start': 352.552, 'end': 353.252, 'duration': 0.7, 'avg_score': 0.5785, 'max_score': 0.6456, 'frames': 21}, {'label': 'Swaying body', 'start': 354.119, 'end': 354.619, 'duration': 0.5, 'avg_score': 0.3703, 'max_score': 0.4046, 'frames': 15}, {'label': 'Touching body', 'start': 354.619, 'end': 355.752, 'duration': 1.133, 'avg_score': 0.7469, 'max_score': 0.9646, 'frames': 34}, {'label': 'Touching face', 'start': 356.085, 'end': 360.086, 'duration': 4.0, 'avg_score': 0.8183, 'max_score': 0.9704, 'frames': 120}, {'label': 'Swaying body', 'start': 360.086, 'end': 360.852, 'duration': 0.767, 'avg_score': 0.6199, 'max_score': 0.8167, 'frames': 23}, {'label': 'Touching body', 'start': 360.852, 'end': 364.952, 'duration': 4.1, 'avg_score': 0.8892, 'max_score': 0.9882, 'frames': 123}, {'label': 'Touching face', 'start': 364.952, 'end': 373.186, 'duration': 8.234, 'avg_score': 0.9232, 'max_score': 0.9997, 'frames': 247}, {'label': 'Touching body', 'start': 373.186, 'end': 375.986, 'duration': 2.8, 'avg_score': 0.8712, 'max_score': 0.9781, 'frames': 84}, {'label': 'Touching body', 'start': 376.453, 'end': 381.12, 'duration': 4.667, 'avg_score': 0.8529, 'max_score': 0.9887, 'frames': 140}, {'label': 'Touching face', 'start': 381.12, 'end': 382.62, 'duration': 1.5, 'avg_score': 0.4794, 'max_score': 0.5369, 'frames': 45}, {'label': 'Touching body', 'start': 382.62, 'end': 387.62, 'duration': 5.0, 'avg_score': 0.8953, 'max_score': 0.9953, 'frames': 150}, {'label': 'Swaying body', 'start': 387.62, 'end': 388.42, 'duration': 0.8, 'avg_score': 0.4108, 'max_score': 0.4815, 'frames': 24}, {'label': 'Swaying body', 'start': 388.554, 'end': 389.454, 'duration': 0.9, 'avg_score': 0.4677, 'max_score': 0.5257, 'frames': 27}, {'label': 'Touching body', 'start': 389.587, 'end': 392.387, 'duration': 2.8, 'avg_score': 0.8783, 'max_score': 0.9948, 'frames': 84}, {'label': 'Touching face', 'start': 392.521, 'end': 399.854, 'duration': 7.334, 'avg_score': 0.812, 'max_score': 0.9963, 'frames': 220}, {'label': 'Swaying body', 'start': 399.854, 'end': 402.154, 'duration': 2.3, 'avg_score': 0.8007, 'max_score': 0.9488, 'frames': 69}, {'label': 'Swaying body', 'start': 402.254, 'end': 402.921, 'duration': 0.667, 'avg_score': 0.5822, 'max_score': 0.6464, 'frames': 20}, {'label': 'Touching face', 'start': 402.921, 'end': 404.421, 'duration': 1.5, 'avg_score': 0.5603, 'max_score': 0.7168, 'frames': 45}, {'label': 'Touching face', 'start': 404.588, 'end': 409.321, 'duration': 4.734, 'avg_score': 0.9155, 'max_score': 0.9988, 'frames': 142}, {'label': 'Touching face', 'start': 410.255, 'end': 418.022, 'duration': 7.767, 'avg_score': 0.927, 'max_score': 0.9997, 'frames': 233}, {'label': 'Touching face', 'start': 418.889, 'end': 421.422, 'duration': 2.533, 'avg_score': 0.6965, 'max_score': 0.8605, 'frames': 76}, {'label': 'Touching body', 'start': 421.422, 'end': 429.856, 'duration': 8.434, 'avg_score': 0.9645, 'max_score': 0.9978, 'frames': 253}, {'label': 'Touching face', 'start': 429.856, 'end': 431.723, 'duration': 1.867, 'avg_score': 0.6427, 'max_score': 0.7944, 'frames': 56}, {'label': 'Swaying body', 'start': 431.723, 'end': 432.256, 'duration': 0.533, 'avg_score': 0.5875, 'max_score': 0.6382, 'frames': 16}, {'label': 'Touching body', 'start': 432.256, 'end': 433.423, 'duration': 1.167, 'avg_score': 0.803,  'max_score': 0.9777, 'frames': 35}, {'label': 'Swaying body', 'start': 433.489, 'end': 434.989, 'duration': 1.5, 'avg_score': 0.6061, 'max_score': 0.7336, 'frames': 45}, {'label': 'Swaying body', 'start': 435.256, 'end': 435.756, 'duration': 0.5, 'avg_score': 0.566, 'max_score': 0.6368, 'frames': 15}, {'label': 'Touching face', 'start': 435.756, 'end': 437.49, 'duration': 1.733, 'avg_score': 0.6133, 'max_score': 0.7801, 'frames': 52}, {'label': 'Touching body', 'start': 437.49, 'end': 441.823, 'duration': 4.334, 'avg_score': 0.7508, 'max_score': 0.9441, 'frames': 130}, {'label': 'Touching body', 'start': 441.99, 'end': 444.49, 'duration': 2.5, 'avg_score': 0.7505, 'max_score': 0.9571, 'frames': 75}, {'label': 'Swaying body', 'start': 444.49, 'end': 445.49, 'duration': 1.0, 'avg_score': 0.6237, 'max_score': 0.719, 'frames': 31}]}
+{
+  "ok": true,
+  "video": {
+    "path": "/tmp/dl_d981d3a144cd44998eaca782b5644de2.mp4",
+    "fps": 29.99832971438116,
+    "total_frames": 7184,
+    "width": 1920,
+    "height": 1080,
+    "duration_sec": 239.48,
+    "processed_frames": 7184,
+    "analysis_time_sec": 266.18020272254944
+  },
+  "timeline": [
+    {
+      "label": "Touching body",
+      "start": 1.5,
+      "end": 3.0,
+      "duration": 1.5,
+      "avg_score": 0.9391,
+      "max_score": 0.9978,
+      "frames": 9
+    },
+    {
+      "label": "Slanting",
+      "start": 3.667,
+      "end": 4.167,
+      "duration": 0.5,
+      "avg_score": 0.9731,
+      "max_score": 0.9923,
+      "frames": 3
+    },
+    {
+      "label": "Touching body",
+      "start": 4.834,
+      "end": 5.5,
+      "duration": 0.667,
+      "avg_score": 0.5809,
+      "max_score": 0.6947,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 5.667,
+      "end": 6.5,
+      "duration": 0.833,
+      "avg_score": 0.6209,
+      "max_score": 0.7116,
+      "frames": 5
+    },
+    {
+      "label": "Touching body",
+      "start": 7.834,
+      "end": 8.334,
+      "duration": 0.5,
+      "avg_score": 0.6808,
+      "max_score": 0.682,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 8.834,
+      "end": 9.501,
+      "duration": 0.667,
+      "avg_score": 0.7356,
+      "max_score": 0.9905,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 9.834,
+      "end": 11.167,
+      "duration": 1.333,
+      "avg_score": 0.8049,
+      "max_score": 0.9534,
+      "frames": 8
+    },
+    {
+      "label": "Slanting",
+      "start": 11.167,
+      "end": 11.834,
+      "duration": 0.667,
+      "avg_score": 0.9782,
+      "max_score": 0.9859,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 11.834,
+      "end": 16.501,
+      "duration": 4.667,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 28
+    },
+    {
+      "label": "Touching face",
+      "start": 18.168,
+      "end": 19.501,
+      "duration": 1.333,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 8
+    },
+    {
+      "label": "Touching body",
+      "start": 19.668,
+      "end": 21.001,
+      "duration": 1.333,
+      "avg_score": 0.8115,
+      "max_score": 0.9392,
+      "frames": 8
+    },
+    {
+      "label": "Touching body",
+      "start": 21.168,
+      "end": 22.835,
+      "duration": 1.667,
+      "avg_score": 0.8685,
+      "max_score": 0.9623,
+      "frames": 10
+    },
+    {
+      "label": "Slanting",
+      "start": 24.335,
+      "end": 24.835,
+      "duration": 0.5,
+      "avg_score": 0.9671,
+      "max_score": 0.9839,
+      "frames": 3
+    },
+    {
+      "label": "Touching face",
+      "start": 24.835,
+      "end": 25.335,
+      "duration": 0.5,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 3
+    },
+    {
+      "label": "Touching body",
+      "start": 25.501,
+      "end": 26.168,
+      "duration": 0.667,
+      "avg_score": 0.7522,
+      "max_score": 0.9315,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 26.335,
+      "end": 27.002,
+      "duration": 0.667,
+      "avg_score": 0.6713,
+      "max_score": 0.9411,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 28.335,
+      "end": 30.168,
+      "duration": 1.833,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 11
+    },
+    {
+      "label": "Touching body",
+      "start": 30.335,
+      "end": 31.335,
+      "duration": 1.0,
+      "avg_score": 0.8346,
+      "max_score": 0.9495,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 31.668,
+      "end": 32.502,
+      "duration": 0.833,
+      "avg_score": 0.9552,
+      "max_score": 0.994,
+      "frames": 5
+    },
+    {
+      "label": "Touching body",
+      "start": 33.169,
+      "end": 33.669,
+      "duration": 0.5,
+      "avg_score": 0.8523,
+      "max_score": 0.9854,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 34.502,
+      "end": 35.169,
+      "duration": 0.667,
+      "avg_score": 0.8709,
+      "max_score": 0.9892,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 35.169,
+      "end": 37.502,
+      "duration": 2.333,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 14
+    },
+    {
+      "label": "Touching body",
+      "start": 38.002,
+      "end": 39.336,
+      "duration": 1.333,
+      "avg_score": 0.7825,
+      "max_score": 0.9732,
+      "frames": 8
+    },
+    {
+      "label": "Touching body",
+      "start": 40.169,
+      "end": 40.669,
+      "duration": 0.5,
+      "avg_score": 0.7753,
+      "max_score": 0.9515,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 40.669,
+      "end": 41.336,
+      "duration": 0.667,
+      "avg_score": 0.9831,
+      "max_score": 0.9898,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 41.336,
+      "end": 42.502,
+      "duration": 1.167,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 7
+    },
+    {
+      "label": "Slanting",
+      "start": 43.502,
+      "end": 44.169,
+      "duration": 0.667,
+      "avg_score": 0.768,
+      "max_score": 0.9881,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 44.169,
+      "end": 45.503,
+      "duration": 1.333,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 8
+    },
+    {
+      "label": "Touching body",
+      "start": 45.669,
+      "end": 46.669,
+      "duration": 1.0,
+      "avg_score": 0.8249,
+      "max_score": 0.9285,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 47.003,
+      "end": 47.503,
+      "duration": 0.5,
+      "avg_score": 0.8484,
+      "max_score": 0.9699,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 48.003,
+      "end": 48.503,
+      "duration": 0.5,
+      "avg_score": 0.9821,
+      "max_score": 0.9921,
+      "frames": 3
+    },
+    {
+      "label": "Touching face",
+      "start": 48.503,
+      "end": 51.003,
+      "duration": 2.5,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 15
+    },
+    {
+      "label": "Touching body",
+      "start": 51.17,
+      "end": 52.336,
+      "duration": 1.167,
+      "avg_score": 0.726,
+      "max_score": 0.9467,
+      "frames": 7
+    },
+    {
+      "label": "Slanting",
+      "start": 52.336,
+      "end": 53.17,
+      "duration": 0.833,
+      "avg_score": 0.6568,
+      "max_score": 0.9352,
+      "frames": 5
+    },
+    {
+      "label": "Slanting",
+      "start": 53.336,
+      "end": 54.003,
+      "duration": 0.667,
+      "avg_score": 0.8126,
+      "max_score": 0.9888,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 54.003,
+      "end": 82.338,
+      "duration": 28.335,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 170
+    },
+    {
+      "label": "Touching body",
+      "start": 82.505,
+      "end": 83.171,
+      "duration": 0.667,
+      "avg_score": 0.6978,
+      "max_score": 0.8894,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 83.338,
+      "end": 83.838,
+      "duration": 0.5,
+      "avg_score": 0.6861,
+      "max_score": 0.9602,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 83.838,
+      "end": 84.338,
+      "duration": 0.5,
+      "avg_score": 0.9801,
+      "max_score": 0.9921,
+      "frames": 3
+    },
+    {
+      "label": "Touching face",
+      "start": 84.338,
+      "end": 85.005,
+      "duration": 0.667,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 85.671,
+      "end": 86.671,
+      "duration": 1.0,
+      "avg_score": 0.786,
+      "max_score": 0.9472,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 86.671,
+      "end": 87.338,
+      "duration": 0.667,
+      "avg_score": 0.834,
+      "max_score": 0.985,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 87.338,
+      "end": 88.005,
+      "duration": 0.667,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 88.172,
+      "end": 88.672,
+      "duration": 0.5,
+      "avg_score": 0.6523,
+      "max_score": 0.7962,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 89.172,
+      "end": 89.838,
+      "duration": 0.667,
+      "avg_score": 0.8159,
+      "max_score": 0.9786,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 89.838,
+      "end": 93.005,
+      "duration": 3.167,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 19
+    },
+    {
+      "label": "Slanting",
+      "start": 95.339,
+      "end": 96.005,
+      "duration": 0.667,
+      "avg_score": 0.8636,
+      "max_score": 0.9847,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 96.005,
+      "end": 101.839,
+      "duration": 5.834,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 35
+    },
+    {
+      "label": "Touching body",
+      "start": 104.006,
+      "end": 105.006,
+      "duration": 1.0,
+      "avg_score": 0.8582,
+      "max_score": 0.9521,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 105.006,
+      "end": 117.173,
+      "duration": 12.167,
+      "avg_score": 0.9615,
+      "max_score": 0.9883,
+      "frames": 73
+    },
+    {
+      "label": "Slanting",
+      "start": 118.007,
+      "end": 118.673,
+      "duration": 0.667,
+      "avg_score": 0.9177,
+      "max_score": 0.9812,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 118.673,
+      "end": 119.673,
+      "duration": 1.0,
+      "avg_score": 0.8479,
+      "max_score": 0.9876,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 119.673,
+      "end": 122.007,
+      "duration": 2.333,
+      "avg_score": 0.9105,
+      "max_score": 0.9975,
+      "frames": 14
+    },
+    {
+      "label": "Touching face",
+      "start": 122.007,
+      "end": 130.674,
+      "duration": 8.667,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 52
+    },
+    {
+      "label": "Slanting",
+      "start": 132.007,
+      "end": 132.674,
+      "duration": 0.667,
+      "avg_score": 0.8784,
+      "max_score": 0.9867,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 132.674,
+      "end": 133.341,
+      "duration": 0.667,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 4
+    },
+    {
+      "label": "Slanting",
+      "start": 134.341,
+      "end": 134.841,
+      "duration": 0.5,
+      "avg_score": 0.6818,
+      "max_score": 0.9299,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 135.674,
+      "end": 136.174,
+      "duration": 0.5,
+      "avg_score": 0.639,
+      "max_score": 0.8117,
+      "frames": 3
+    },
+    {
+      "label": "Touching body",
+      "start": 136.174,
+      "end": 137.008,
+      "duration": 0.833,
+      "avg_score": 0.8989,
+      "max_score": 0.9301,
+      "frames": 5
+    },
+    {
+      "label": "Touching body",
+      "start": 137.674,
+      "end": 138.174,
+      "duration": 0.5,
+      "avg_score": 0.6474,
+      "max_score": 0.8366,
+      "frames": 3
+    },
+    {
+      "label": "Touching body",
+      "start": 138.341,
+      "end": 138.841,
+      "duration": 0.5,
+      "avg_score": 0.7807,
+      "max_score": 0.9916,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 139.508,
+      "end": 140.174,
+      "duration": 0.667,
+      "avg_score": 0.9011,
+      "max_score": 0.9892,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 140.174,
+      "end": 142.008,
+      "duration": 1.833,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 11
+    },
+    {
+      "label": "Slanting",
+      "start": 143.841,
+      "end": 144.675,
+      "duration": 0.833,
+      "avg_score": 0.9292,
+      "max_score": 0.9916,
+      "frames": 5
+    },
+    {
+      "label": "Slanting",
+      "start": 145.008,
+      "end": 145.675,
+      "duration": 0.667,
+      "avg_score": 0.9846,
+      "max_score": 0.9921,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 145.675,
+      "end": 152.508,
+      "duration": 6.834,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 41
+    },
+    {
+      "label": "Touching body",
+      "start": 152.675,
+      "end": 153.175,
+      "duration": 0.5,
+      "avg_score": 0.7026,
+      "max_score": 0.8409,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 153.675,
+      "end": 154.342,
+      "duration": 0.667,
+      "avg_score": 0.8523,
+      "max_score": 0.9852,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 154.342,
+      "end": 157.509,
+      "duration": 3.167,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 19
+    },
+    {
+      "label": "Touching body",
+      "start": 157.675,
+      "end": 158.175,
+      "duration": 0.5,
+      "avg_score": 0.7115,
+      "max_score": 0.8712,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 158.676,
+      "end": 159.342,
+      "duration": 0.667,
+      "avg_score": 0.8366,
+      "max_score": 0.9863,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 159.342,
+      "end": 167.509,
+      "duration": 8.167,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 49
+    },
+    {
+      "label": "Touching body",
+      "start": 167.676,
+      "end": 168.676,
+      "duration": 1.0,
+      "avg_score": 0.8492,
+      "max_score": 0.9963,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 169.676,
+      "end": 172.343,
+      "duration": 2.667,
+      "avg_score": 0.9208,
+      "max_score": 0.9696,
+      "frames": 16
+    },
+    {
+      "label": "Slanting",
+      "start": 172.676,
+      "end": 173.343,
+      "duration": 0.667,
+      "avg_score": 0.9836,
+      "max_score": 0.9882,
+      "frames": 4
+    },
+    {
+      "label": "Touching face",
+      "start": 173.343,
+      "end": 174.51,
+      "duration": 1.167,
+      "avg_score": 0.5175,
+      "max_score": 0.5175,
+      "frames": 7
+    },
+    {
+      "label": "Touching body",
+      "start": 174.676,
+      "end": 175.843,
+      "duration": 1.167,
+      "avg_score": 0.8501,
+      "max_score": 0.9893,
+      "frames": 7
+    },
+    {
+      "label": "Touching body",
+      "start": 179.01,
+      "end": 179.843,
+      "duration": 0.833,
+      "avg_score": 0.7965,
+      "max_score": 0.9399,
+      "frames": 5
+    },
+    {
+      "label": "Slanting",
+      "start": 179.843,
+      "end": 182.844,
+      "duration": 3.0,
+      "avg_score": 0.9416,
+      "max_score": 0.9958,
+      "frames": 18
+    },
+    {
+      "label": "Slanting",
+      "start": 183.677,
+      "end": 193.344,
+      "duration": 9.667,
+      "avg_score": 0.9663,
+      "max_score": 0.9943,
+      "frames": 58
+    },
+    {
+      "label": "Touching body",
+      "start": 193.344,
+      "end": 193.844,
+      "duration": 0.5,
+      "avg_score": 0.8009,
+      "max_score": 0.9626,
+      "frames": 3
+    },
+    {
+      "label": "Slanting",
+      "start": 195.678,
+      "end": 201.345,
+      "duration": 5.667,
+      "avg_score": 0.9639,
+      "max_score": 0.9952,
+      "frames": 34
+    },
+    {
+      "label": "Touching body",
+      "start": 202.011,
+      "end": 202.845,
+      "duration": 0.833,
+      "avg_score": 0.9055,
+      "max_score": 0.9946,
+      "frames": 5
+    },
+    {
+      "label": "Slanting",
+      "start": 203.178,
+      "end": 204.178,
+      "duration": 1.0,
+      "avg_score": 0.9613,
+      "max_score": 0.9854,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 205.011,
+      "end": 210.345,
+      "duration": 5.334,
+      "avg_score": 0.9534,
+      "max_score": 0.997,
+      "frames": 32
+    },
+    {
+      "label": "Slanting",
+      "start": 211.512,
+      "end": 214.179,
+      "duration": 2.667,
+      "avg_score": 0.9729,
+      "max_score": 0.9961,
+      "frames": 16
+    },
+    {
+      "label": "Slanting",
+      "start": 216.345,
+      "end": 217.012,
+      "duration": 0.667,
+      "avg_score": 0.9056,
+      "max_score": 0.9934,
+      "frames": 4
+    },
+    {
+      "label": "Touching body",
+      "start": 218.012,
+      "end": 219.012,
+      "duration": 1.0,
+      "avg_score": 0.843,
+      "max_score": 0.9928,
+      "frames": 6
+    },
+    {
+      "label": "Slanting",
+      "start": 219.012,
+      "end": 221.846,
+      "duration": 2.833,
+      "avg_score": 0.9448,
+      "max_score": 0.9956,
+      "frames": 17
+    },
+    {
+      "label": "Slanting",
+      "start": 223.012,
+      "end": 238.513,
+      "duration": 15.501,
+      "avg_score": 0.9565,
+      "max_score": 0.9892,
+      "frames": 93
+    },
+    {
+      "label": "Touching body",
+      "start": 238.513,
+      "end": 239.347,
+      "duration": 0.833,
+      "avg_score": 0.8914,
+      "max_score": 0.9994,
+      "frames": 6
+    }
+  ]
+}

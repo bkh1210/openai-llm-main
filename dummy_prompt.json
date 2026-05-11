@@ -1,0 +1,28 @@
+{
+    "id": "dummy-prompt",
+    "session_id": "dummy-session",
+    "topic": "한국사",
+    "category" :"전공발표",
+    "goal" : "팀프로젝트",
+    "target" : "유치원생",
+    "backinfo" : "보통",
+    "criteria" : 
+    [
+        {
+            "name":"정확성",
+            "weight":30
+        },
+        {
+            "name":"논리성",
+            "weight":30
+        },
+        {
+            "name":"전달력",
+            "weight":40
+        }
+     ],
+    "limit_time":"10",
+    "feedback_tone":"DEFAULT",
+     "created_at" : "2024-06-01T12:00:00Z",
+     "updated_at" : "2024-06-01T12:00:00Z"
+}

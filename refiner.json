@@ -1,0 +1,186 @@
+{
+  "success": true,
+  "refined_result": {
+    "summary": {
+      "pitch_range_hz": {
+        "label": "발표 전체 음높이 변화폭",
+        "value": 84.04,
+        "unit": "Hz",
+        "grade": "적절"
+      },
+      "mean_intonation_phrases_per_sentence": {
+        "label": "문장당 평균 억양구 수",
+        "value": 4.31,
+        "unit": "개",
+        "grade": "주의"
+      },
+      "average_speech_rate_cpm": {
+        "label": "평균 발화 속도",
+        "value": 316.8,
+        "unit": "CPM",
+        "grade": "적절"
+      },
+      "average_words_per_sentence": {
+        "label": "평균 발화 길이",
+        "value": 11.83,
+        "unit": "어절",
+        "grade": "주의"
+      }
+    },
+    "details": {
+      "top_intonation_sentences": [
+        {
+          "index": 20,
+          "text": "이 자기 평가는 사용자의 | 메타인지가 얼마나 | 활성화되어 | 있는지 | 피드백 | 보고서에 | 나타날 때 | 쓰일 예정입니다.",
+          "intonation_phrase_count": 8,
+          "pitch_change_hz": 104.25,
+          "start": 176.38,
+          "end": 187.72
+        },
+        {
+          "index": 18,
+          "text": "하나는 사용자가 발표 상황에 대해서 얼마나 잘 알고 있는지 자기 | 점검 기회를 주고 | 두 | 번째는 발표 맞춤형 | 피드백을 | 제공하기 | 위함입니다.",
+          "intonation_phrase_count": 7,
+          "pitch_change_hz": 103.2,
+          "start": 148.17,
+          "end": 166.06
+        },
+        {
+          "index": 5,
+          "text": "하지만 제가 | 4년 동안 | 학교를 다니면서 발표를 좋아하는 비율보다는 | 발표를 어려워하고 발표를 | 기피하는 사람들을 흔히 볼 | 수 있었습니다.",
+          "intonation_phrase_count": 6,
+          "pitch_change_hz": 113.98,
+          "start": 31.19,
+          "end": 40.69
+        }
+      ],
+      "late_speech_rate_analysis": {
+        "late_section_ratio": 0.15,
+        "late_section_start_sec": 203.57,
+        "late_average_cpm": 372.41,
+        "overall_average_cpm": 316.8,
+        "is_faster_than_overall": true,
+        "difference_cpm": 55.61,
+        "difference_ratio": 0.1755
+      },
+      "pause_analysis": {
+        "sentence_pause_threshold_sec": 3.0,
+        "word_pause_threshold_sec": 0.25,
+        "long_sentence_pause_count": 2,
+        "long_sentence_pause_top3": [
+          {
+            "index": 0,
+            "text": "네, 발표 시작하겠습니다.",
+            "pause_duration_sec": 7.89,
+            "start": 7.89,
+            "end": 9.07
+          },
+          {
+            "index": 18,
+            "text": "하나는 사용자가 발표 상황에 대해서 얼마나 잘 알고 있는지 자기 점검 기회를 주고 두 번째는 발표 맞춤형 피드백을 제공하기 위함입니다.",
+            "pause_duration_sec": 3.52,
+            "start": 148.17,
+            "end": 166.06
+          },
+          {
+            "index": 17,
+            "text": "작품 구상입니다. 첫 번째는 인지 단계입니다. 우선 사용자에게 발표 상황을 입력받습니다. 이는 총 두 곳의 수입니다.",
+            "pause_duration_sec": 2.28,
+            "start": 134.31,
+            "end": 144.65
+          }
+        ],
+        "word_pause_over_threshold_count": 8
+      },
+      "filler_analysis": {
+        "total_filler_count": 2,
+        "average_filler_count_per_sentence": 0.07,
+        "top_filler_sentences": [
+          {
+            "index": 12,
+            "text": "그 실력을 보다 효과적으로 증진시킬 수 있으리라 생각해 메타인지 활용 발표 연습 어시스턴트를 창원했습니다.",
+            "filler_count": 1,
+            "fillers": [
+              "그"
+            ],
+            "start": 91.19,
+            "end": 101.59
+          },
+          {
+            "index": 19,
+            "text": "다음으로 사용자가 자신의 발표 영상을 찍고 업로드하고 이제 해당 발표 연습에 대한 자기 평가를 하게 됩니다.",
+            "filler_count": 1,
+            "fillers": [
+              "이제"
+            ],
+            "start": 166.18,
+            "end": 175.44
+          },
+          {
+            "index": 0,
+            "text": "네, 발표 시작하겠습니다.",
+            "filler_count": 0,
+            "fillers": [],
+            "start": 7.89,
+            "end": 9.07
+          }
+        ]
+      },
+      "negative_posture_analysis": {
+        "total_posture_event_count": 91,
+        "negative_posture_event_count": 91,
+        "negative_posture_event_ratio": 1.0,
+        "negative_posture_duration_sec": 193.35,
+        "negative_posture_duration_ratio": 0.8074,
+        "negative_posture_by_label": [
+          {
+            "label": "Slanting",
+            "count": 38,
+            "duration_sec": 80.17,
+            "event_ratio": 0.4176,
+            "duration_ratio": 0.3348
+          },
+          {
+            "label": "Touching body",
+            "count": 33,
+            "duration_sec": 28.33,
+            "event_ratio": 0.3626,
+            "duration_ratio": 0.1183
+          },
+          {
+            "label": "Touching face",
+            "count": 20,
+            "duration_sec": 84.84,
+            "event_ratio": 0.2198,
+            "duration_ratio": 0.3543
+          }
+        ]
+      }
+    }
+  },
+  "thresholds": {
+    "late_section_ratio": 0.15,
+    "sentence_pause_threshold_sec": 3.0,
+    "word_pause_threshold_sec": 0.25,
+    "pitch_range_hz": {
+      "very_monotonous_max": 40.0,
+      "monotonous_max": 70.0,
+      "appropriate_max": 90.0
+    },
+    "intonation_count": {
+      "appropriate_max": 4.0,
+      "warn_max": 7.0
+    },
+    "speech_rate_cpm": {
+      "very_slow_max": 240.0,
+      "slow_max": 270.0,
+      "appropriate_max": 330.0,
+      "fast_max": 360.0
+    },
+    "words_per_sentence": {
+      "appropriate_max": 11.0,
+      "warn_max": 15.0
+    }
+  },
+  "warnings": []
+}

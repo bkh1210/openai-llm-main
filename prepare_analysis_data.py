@@ -12,39 +12,39 @@ def load_data(file_path):
         return ast.literal_eval(text)
 
 
-def split_audio_json(audio_data):
-    transcript = audio_data.get("transcript", {})
-    audio_metrics = audio_data.get("audio_metrics", {})
-
-    return {
-        "full_script": transcript.get("full_text", ""),
-        "results": {
-            "success": audio_data.get("success"),
-            "transcript": {
-                "language": transcript.get("language"),
-                "segments": transcript.get("segments", [])
-            }
-        },
-        "audio_metrics": audio_metrics
-    }
-
-
-def split_pose_json(pose_data):
-    return {
-        "pose": pose_data
-    }
-
-
-def prepare_inputs(audio_file="audio.json", pose_file="pose.json"):
-    audio_data = load_data(audio_file)
+def prepare_inputs(
+    stt_file="stt.json",
+    pitch_file="pitch.json",
+    pose_file="pose.json",
+    refiner_file="refiner.json"
+):
+    stt_data = load_data(stt_file)
+    pitch_data = load_data(pitch_file)
     pose_data = load_data(pose_file)
+    refiner_data = load_data(refiner_file)
 
-    audio_parts = split_audio_json(audio_data)
-    pose_parts = split_pose_json(pose_data)
+    stt = {
+        "total_time_sec": stt_data.get("audio_metrics", {}).get("total_time_sec", 0),
+        "overall_cpm": stt_data.get("audio_metrics", {}).get("overall_cpm", 0),
+        "segments": stt_data.get("audio_metrics", {}).get("segment", []),
+        "full_text": stt_data.get("audio_metrics", {}).get("full_text", "")
+    }
 
-    full_script = audio_parts["full_script"]
-    results = audio_parts["results"]
-    audio_metrics = audio_parts["audio_metrics"]
-    pose = pose_parts["pose"]
+    pitch = {
+        "pitch_metrics": pitch_data.get("pitch_metrics", {}),
+        "segments": pitch_data.get("pitch_metrics", {}).get("segment", [])
+    }
 
-    return full_script, results, audio_metrics, pose
+    posture = {
+        "video": pose_data.get("video", {}),
+        "timeline": pose_data.get("timeline", [])
+    }
+
+    refined = refiner_data.get("refined_result", {})
+
+    return {
+        "stt": stt,
+        "pitch": pitch,
+        "posture": posture,
+        "refined": refined
+    }
